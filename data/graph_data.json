@@ -1,0 +1,6956 @@
+{
+  "nodes": [
+    {
+      "id": "0",
+      "name": "Management and Organizational Behavior",
+      "name_cn": "管理和组织行为",
+      "name_jp": "マネジメントと組織行動",
+      "description": "The overarching framework that encompasses all organizational elements",
+      "category": "Core",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Nature of Work",
+      "name_cn": "工作的本质",
+      "name_jp": "仕事の本質",
+      "description": "Explores what constitutes work and its role in organizational contexts",
+      "category": "Core",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Nature of Management",
+      "name_cn": "管理的本质",
+      "name_jp": "マネジメントの本質",
+      "description": "Defines management functions and responsibilities",
+      "category": "Core",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Changing Workplace",
+      "name_cn": "工作场所变化",
+      "name_jp": "職場の変化",
+      "description": "Addresses contemporary workplace transformations",
+      "category": "Core",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "OB and Management Model",
+      "name_cn": "组织行为与管理模型",
+      "name_jp": "OB・マネジメントモデル",
+      "description": "The integrated framework combining organizational behavior with management functions",
+      "category": "Core",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Technological Advancement",
+      "name_cn": "技术进步",
+      "name_jp": "技術進歩",
+      "description": "Digital transformation and automation in workplace",
+      "category": "Environmental",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Globalization",
+      "name_cn": "全球化",
+      "name_jp": "グローバル化",
+      "description": "International expansion and cross-border operations",
+      "category": "Environmental",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Workforce Diversity",
+      "name_cn": "劳动力多样性",
+      "name_jp": "労働力の多様性",
+      "description": "Variety in employee demographics and backgrounds",
+      "category": "Environmental",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Remote Work",
+      "name_cn": "远程工作",
+      "name_jp": "リモートワーク",
+      "description": "Work conducted outside traditional office locations",
+      "category": "Environmental",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Work-Life Balance",
+      "name_cn": "工作生活平衡",
+      "name_jp": "ワークライフバランス",
+      "description": "Integration of work and personal life priorities",
+      "category": "Environmental",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Planning",
+      "name_cn": "计划",
+      "name_jp": "計画",
+      "description": "Setting organizational goals and strategies",
+      "category": "Management Function",
+      "labels": [
+        "Function"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Organizing",
+      "name_cn": "组织",
+      "name_jp": "組織",
+      "description": "Structuring resources and responsibilities",
+      "category": "Management Function",
+      "labels": [
+        "Function"
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Leading",
+      "name_cn": "领导",
+      "name_jp": "リーダーシップ",
+      "description": "Influencing and motivating people",
+      "category": "Management Function",
+      "labels": [
+        "Function"
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Controlling",
+      "name_cn": "控制",
+      "name_jp": "統制",
+      "description": "Monitoring and adjusting performance",
+      "category": "Management Function",
+      "labels": [
+        "Function"
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Decision-Making",
+      "name_cn": "决策",
+      "name_jp": "意思決定",
+      "description": "Making choices about organizational direction",
+      "category": "Management Function",
+      "labels": [
+        "Function"
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Resource Allocation",
+      "name_cn": "资源分配",
+      "name_jp": "リソース配分",
+      "description": "Distributing assets effectively",
+      "category": "Management Function",
+      "labels": [
+        "Function"
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Personality",
+      "name_cn": "个性",
+      "name_jp": "性格",
+      "description": "Individual traits affecting work behavior",
+      "category": "Individual Factor",
+      "labels": [
+        "Individual"
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Motivation",
+      "name_cn": "动机",
+      "name_jp": "モチベーション",
+      "description": "Drive to perform and achieve goals",
+      "category": "Individual Factor",
+      "labels": [
+        "Individual"
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Perception",
+      "name_cn": "感知",
+      "name_jp": "知覚",
+      "description": "How individuals interpret organizational information",
+      "category": "Individual Factor",
+      "labels": [
+        "Individual"
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Attitudes",
+      "name_cn": "态度",
+      "name_jp": "態度",
+      "description": "Predispositions toward work and organization",
+      "category": "Individual Factor",
+      "labels": [
+        "Individual"
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Skills and Abilities",
+      "name_cn": "技能和能力",
+      "name_jp": "スキルと能力",
+      "description": "Competencies for task performance",
+      "category": "Individual Factor",
+      "labels": [
+        "Individual"
+      ]
+    },
+    {
+      "id": "21",
+      "name": "Personal Values",
+      "name_cn": "个人价值观",
+      "name_jp": "個人的価値観",
+      "description": "Fundamental beliefs guiding behavior",
+      "category": "Individual Factor",
+      "labels": [
+        "Individual"
+      ]
+    },
+    {
+      "id": "22",
+      "name": "Team Dynamics",
+      "name_cn": "团队动力",
+      "name_jp": "チームダイナミクス",
+      "description": "Interaction patterns within groups",
+      "category": "Group Factor",
+      "labels": [
+        "Group"
+      ]
+    },
+    {
+      "id": "23",
+      "name": "Communication",
+      "name_cn": "沟通",
+      "name_jp": "コミュニケーション",
+      "description": "Information exchange and coordination",
+      "category": "Group Factor",
+      "labels": [
+        "Group"
+      ]
+    },
+    {
+      "id": "24",
+      "name": "Conflict",
+      "name_cn": "冲突",
+      "name_jp": "紛争",
+      "description": "Disagreements and their resolution",
+      "category": "Group Factor",
+      "labels": [
+        "Group"
+      ]
+    },
+    {
+      "id": "25",
+      "name": "Group Leadership",
+      "name_cn": "群体领导",
+      "name_jp": "グループリーダーシップ",
+      "description": "Influence within group settings",
+      "category": "Group Factor",
+      "labels": [
+        "Group"
+      ]
+    },
+    {
+      "id": "26",
+      "name": "Group Cohesion",
+      "name_cn": "群体凝聚力",
+      "name_jp": "グループの結束力",
+      "description": "Unity and solidarity of group members",
+      "category": "Group Factor",
+      "labels": [
+        "Group"
+      ]
+    },
+    {
+      "id": "27",
+      "name": "Organizational Structure",
+      "name_cn": "组织结构",
+      "name_jp": "組織構造",
+      "description": "Formal arrangement of roles and relationships",
+      "category": "Organizational Factor",
+      "labels": [
+        "Organization"
+      ]
+    },
+    {
+      "id": "28",
+      "name": "Organizational Culture",
+      "name_cn": "组织文化",
+      "name_jp": "組織文化",
+      "description": "Shared values, beliefs, and norms",
+      "category": "Organizational Factor",
+      "labels": [
+        "Organization"
+      ]
+    },
+    {
+      "id": "29",
+      "name": "Strategy",
+      "name_cn": "战略",
+      "name_jp": "戦略",
+      "description": "Long-term organizational direction",
+      "category": "Organizational Factor",
+      "labels": [
+        "Organization"
+      ]
+    },
+    {
+      "id": "30",
+      "name": "Organizational Environment",
+      "name_cn": "组织环境",
+      "name_jp": "組織環境",
+      "description": "External factors affecting the organization",
+      "category": "Organizational Factor",
+      "labels": [
+        "Organization"
+      ]
+    },
+    {
+      "id": "31",
+      "name": "Organizational Design",
+      "name_cn": "组织设计",
+      "name_jp": "組織設計",
+      "description": "Intentional structuring for effectiveness",
+      "category": "Organizational Factor",
+      "labels": [
+        "Organization"
+      ]
+    },
+    {
+      "id": "32",
+      "name": "Inputs",
+      "name_cn": "输入",
+      "name_jp": "インプット",
+      "description": "Individual and organizational characteristics that enter the system",
+      "category": "IPO Model",
+      "labels": [
+        "Model"
+      ]
+    },
+    {
+      "id": "33",
+      "name": "Processes",
+      "name_cn": "过程",
+      "name_jp": "プロセス",
+      "description": "Behaviors, interactions, and decision-making activities",
+      "category": "IPO Model",
+      "labels": [
+        "Model"
+      ]
+    },
+    {
+      "id": "34",
+      "name": "Outputs",
+      "name_cn": "输出",
+      "name_jp": "アウトプット",
+      "description": "Performance, satisfaction, and organizational success results",
+      "category": "IPO Model",
+      "labels": [
+        "Model"
+      ]
+    },
+    {
+      "id": "35",
+      "name": "Individual Performance",
+      "name_cn": "个人绩效",
+      "name_jp": "個人パフォーマンス",
+      "description": "Task completion and quality metrics",
+      "category": "Performance Outcome",
+      "labels": [
+        "Outcome"
+      ]
+    },
+    {
+      "id": "36",
+      "name": "Group Effectiveness",
+      "name_cn": "群体有效性",
+      "name_jp": "グループの有効性",
+      "description": "Team goal achievement and collaboration success",
+      "category": "Performance Outcome",
+      "labels": [
+        "Outcome"
+      ]
+    },
+    {
+      "id": "37",
+      "name": "Organizational Success",
+      "name_cn": "组织成功",
+      "name_jp": "組織の成功",
+      "description": "Overall organizational objectives and strategic goals",
+      "category": "Performance Outcome",
+      "labels": [
+        "Outcome"
+      ]
+    },
+    {
+      "id": "38",
+      "name": "Employee Satisfaction",
+      "name_cn": "员工满意度",
+      "name_jp": "従業員満足度",
+      "description": "Worker contentment and engagement levels",
+      "category": "Performance Outcome",
+      "labels": [
+        "Outcome"
+      ]
+    },
+    {
+      "id": "39",
+      "name": "Individual and Cultural Differences",
+      "name_cn": "个人和文化差异",
+      "name_jp": "個人と文化の違い",
+      "description": "Factors affecting employee performance based on individual and cultural backgrounds",
+      "category": "Core",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "40",
+      "name": "Individual and Cultural Factors in Employee Performance",
+      "name_cn": "员工绩效中的个人和文化因素",
+      "name_jp": "従業員パフォーマンスにおける個人と文化要因",
+      "description": "How individual characteristics and cultural background influence work performance",
+      "category": "Core",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "41",
+      "name": "Employee Abilities and Skills",
+      "name_cn": "员工能力和技能",
+      "name_jp": "従業員の能力とスキル",
+      "description": "Competencies and capabilities that employees bring to their roles",
+      "category": "Individual",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "42",
+      "name": "Personality: An Introduction",
+      "name_cn": "个性：介绍",
+      "name_jp": "性格：紹介",
+      "description": "Overview of personality traits and their role in organizations",
+      "category": "Individual",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "43",
+      "name": "Personality and Work Behavior",
+      "name_cn": "个性和工作行为",
+      "name_jp": "性格と仕事の行動",
+      "description": "How personality traits influence workplace behavior and performance",
+      "category": "Individual",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "44",
+      "name": "Personality and Organization: A Basic Conflict?",
+      "name_cn": "个性和组织：基本冲突？",
+      "name_jp": "性格と組織：基本的な葛藤？",
+      "description": "Tensions between individual personality and organizational requirements",
+      "category": "Individual",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "45",
+      "name": "Personal Values and Ethics",
+      "name_cn": "个人价值观和伦理",
+      "name_jp": "個人的価値観と倫理",
+      "description": "Fundamental beliefs and ethical principles guiding individual behavior",
+      "category": "Individual",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "46",
+      "name": "Cultural Differences",
+      "name_cn": "文化差异",
+      "name_jp": "文化的違い",
+      "description": "How cultural backgrounds influence organizational behavior and performance",
+      "category": "Cultural",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "47",
+      "name": "Cognitive Ability",
+      "name_cn": "认知能力",
+      "name_jp": "認知能力",
+      "description": "Mental capacity for learning, reasoning, and problem-solving",
+      "category": "Individual Characteristic",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "48",
+      "name": "Technical Skills",
+      "name_cn": "技术技能",
+      "name_jp": "技術スキル",
+      "description": "Job-specific technical competencies and expertise",
+      "category": "Individual Characteristic",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "49",
+      "name": "Interpersonal Skills",
+      "name_cn": "人际技能",
+      "name_jp": "対人スキル",
+      "description": "Ability to work effectively with others",
+      "category": "Individual Characteristic",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "50",
+      "name": "Big Five Personality Traits",
+      "name_cn": "五大人格特质",
+      "name_jp": "ビッグファイブ性格特性",
+      "description": "Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism",
+      "category": "Individual Characteristic",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "51",
+      "name": "Emotional Intelligence",
+      "name_cn": "情感智力",
+      "name_jp": "感情知能",
+      "description": "Ability to recognize and manage emotions in self and others",
+      "category": "Individual Characteristic",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "52",
+      "name": "Personal Ethics",
+      "name_cn": "个人伦理",
+      "name_jp": "個人的倫理",
+      "description": "Individual moral principles and ethical standards",
+      "category": "Individual Characteristic",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "53",
+      "name": "Work Values",
+      "name_cn": "工作价值观",
+      "name_jp": "仕事の価値観",
+      "description": "What individuals value in their work environment and career",
+      "category": "Individual Characteristic",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "54",
+      "name": "Hofstede Cultural Dimensions",
+      "name_cn": "霍夫斯泰德文化维度",
+      "name_jp": "ホフステッド文化的次元",
+      "description": "Framework for understanding cultural differences across societies",
+      "category": "Cultural Characteristic",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "55",
+      "name": "Power Distance",
+      "name_cn": "权力距离",
+      "name_jp": "権力距離",
+      "description": "Extent to which less powerful members accept unequal power distribution",
+      "category": "Cultural Characteristic",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "56",
+      "name": "Uncertainty Avoidance",
+      "name_cn": "不确定性规避",
+      "name_jp": "不確実性回避",
+      "description": "Degree to which cultures avoid or embrace uncertainty",
+      "category": "Cultural Characteristic",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "57",
+      "name": "Individualism vs Collectivism",
+      "name_cn": "个人主义 vs 集体主义",
+      "name_jp": "個人主義 vs 集団主義",
+      "description": "Cultural preference for individual or group interests",
+      "category": "Cultural Characteristic",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "58",
+      "name": "Masculinity vs Femininity",
+      "name_cn": "男性气质 vs 女性气质",
+      "name_jp": "男性性 vs 女性性",
+      "description": "Cultural emphasis on achievement versus relationship orientation",
+      "category": "Cultural Characteristic",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "59",
+      "name": "Time Orientation",
+      "name_cn": "时间定向",
+      "name_jp": "時間志向",
+      "description": "Cultural focus on past, present, or future",
+      "category": "Cultural Characteristic",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "60",
+      "name": "Demographic Diversity",
+      "name_cn": "人口统计多样性",
+      "name_jp": "人口統計的多様性",
+      "description": "Differences in age, gender, race, ethnicity, and other demographics",
+      "category": "Diversity",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "61",
+      "name": "Cognitive Diversity",
+      "name_cn": "认知多样性",
+      "name_jp": "認知的多様性",
+      "description": "Differences in thinking styles, problem-solving approaches, and perspectives",
+      "category": "Diversity",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "62",
+      "name": "Value Diversity",
+      "name_cn": "价值观多样性",
+      "name_jp": "価値観の多様性",
+      "description": "Differences in personal values and ethical frameworks",
+      "category": "Diversity",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "63",
+      "name": "Person-Job Fit",
+      "name_cn": "人职匹配",
+      "name_jp": "人と仕事の適合性",
+      "description": "Alignment between individual characteristics and job requirements",
+      "category": "Performance Outcome",
+      "labels": [
+        "Outcome"
+      ]
+    },
+    {
+      "id": "64",
+      "name": "Person-Organization Fit",
+      "name_cn": "人组织匹配",
+      "name_jp": "人と組織の適合性",
+      "description": "Alignment between individual values and organizational culture",
+      "category": "Performance Outcome",
+      "labels": [
+        "Outcome"
+      ]
+    },
+    {
+      "id": "65",
+      "name": "Cultural Adaptation",
+      "name_cn": "文化适应",
+      "name_jp": "文化的適応",
+      "description": "Ability to adjust to different cultural environments",
+      "category": "Performance Outcome",
+      "labels": [
+        "Outcome"
+      ]
+    },
+    {
+      "id": "103",
+      "name": "Perception and Job Attitudes",
+      "name_cn": "知觉和工作态度",
+      "name_jp": "知覚と仕事態度",
+      "description": "How employees perceive their work environment and develop attitudes toward their jobs",
+      "category": "Core",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "104",
+      "name": "Perception: An Introduction",
+      "name_cn": "知觉：介绍",
+      "name_jp": "知覚：紹介",
+      "description": "Overview of perception processes and their role in organizational behavior",
+      "category": "Individual",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "105",
+      "name": "The Perception Process",
+      "name_cn": "知觉过程",
+      "name_jp": "知覚プロセス",
+      "description": "How individuals select, organize, and interpret sensory information",
+      "category": "Individual",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "106",
+      "name": "Social Perception",
+      "name_cn": "社会知觉",
+      "name_jp": "社会的知覚",
+      "description": "How people perceive and evaluate other people",
+      "category": "Group",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "107",
+      "name": "Job Attitudes",
+      "name_cn": "工作态度",
+      "name_jp": "仕事態度",
+      "description": "Employees' feelings and beliefs about their work and organization",
+      "category": "Individual",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "108",
+      "name": "Job Satisfaction",
+      "name_cn": "工作满意度",
+      "name_jp": "仕事満足度",
+      "description": "Degree to which employees are satisfied with their jobs",
+      "category": "Individual",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "109",
+      "name": "Organizational Commitment",
+      "name_cn": "组织承诺",
+      "name_jp": "組織コミットメント",
+      "description": "Employee attachment and loyalty to the organization",
+      "category": "Individual",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "110",
+      "name": "Selective Attention",
+      "name_cn": "选择性注意",
+      "name_jp": "選択的注意",
+      "description": "Process of focusing on certain stimuli while ignoring others",
+      "category": "Perception",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "111",
+      "name": "Organization and Schema",
+      "name_cn": "组织和图式",
+      "name_jp": "組織とスキーマ",
+      "description": "Mental frameworks for organizing and interpreting information",
+      "category": "Perception",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "112",
+      "name": "Interpretation",
+      "name_cn": "解释",
+      "name_jp": "解釈",
+      "description": "Process of assigning meaning to perceived information",
+      "category": "Perception",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "113",
+      "name": "Perceptual Bias",
+      "name_cn": "知觉偏差",
+      "name_jp": "知覚バイアス",
+      "description": "Systematic errors in perception and judgment",
+      "category": "Perception",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "114",
+      "name": "Attribution Theory",
+      "name_cn": "归因理论",
+      "name_jp": "帰属理論",
+      "description": "How people explain the causes of behavior",
+      "category": "Perception",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "115",
+      "name": "First Impression",
+      "name_cn": "第一印象",
+      "name_jp": "第一印象",
+      "description": "Initial judgments formed about people",
+      "category": "Perception",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "116",
+      "name": "Stereotyping",
+      "name_cn": "刻板印象",
+      "name_jp": "ステレオタイプ",
+      "description": "Assigning characteristics to people based on group membership",
+      "category": "Perception",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "117",
+      "name": "Job Involvement",
+      "name_cn": "工作投入",
+      "name_jp": "仕事への関与",
+      "description": "Degree to which employees identify with and care about their work",
+      "category": "Job Attitude",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "118",
+      "name": "Affective Commitment",
+      "name_cn": "情感承诺",
+      "name_jp": "情動的コミットメント",
+      "description": "Emotional attachment to the organization",
+      "category": "Job Attitude",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "119",
+      "name": "Continuance Commitment",
+      "name_cn": "持续承诺",
+      "name_jp": "継続的コミットメント",
+      "description": "Commitment based on costs of leaving the organization",
+      "category": "Job Attitude",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "120",
+      "name": "Normative Commitment",
+      "name_cn": "规范承诺",
+      "name_jp": "規範的コミットメント",
+      "description": "Commitment based on sense of obligation to the organization",
+      "category": "Job Attitude",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Job Stress",
+      "name_cn": "工作压力",
+      "name_jp": "仕事ストレス",
+      "description": "Psychological and physiological strain from work demands",
+      "category": "Job Attitude",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "122",
+      "name": "Burnout",
+      "name_cn": "职业倦怠",
+      "name_jp": "バーンアウト",
+      "description": "Emotional exhaustion and reduced effectiveness from prolonged stress",
+      "category": "Job Attitude",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "123",
+      "name": "Cognitive Complexity",
+      "name_cn": "认知复杂性",
+      "name_jp": "認知的複雑性",
+      "description": "Capacity to acquire and organize information in sophisticated ways",
+      "category": "Individual Characteristic",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "124",
+      "name": "Self-Esteem",
+      "name_cn": "自尊心",
+      "name_jp": "自尊心",
+      "description": "Individual's belief about their own worth and capabilities",
+      "category": "Individual Characteristic",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "125",
+      "name": "Self-Efficacy",
+      "name_cn": "自我效能",
+      "name_jp": "自己効力感",
+      "description": "Belief in one's ability to succeed in specific situations",
+      "category": "Individual Characteristic",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "126",
+      "name": "Locus of Control",
+      "name_cn": "控制点",
+      "name_jp": "統制の所在",
+      "description": "Tendency to attribute events to internal or external causes",
+      "category": "Individual Characteristic",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "127",
+      "name": "Internal Locus of Control",
+      "name_cn": "内部控制点",
+      "name_jp": "内的統制",
+      "description": "Belief that events are controlled by one's own actions",
+      "category": "Individual Characteristic",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "128",
+      "name": "External Locus of Control",
+      "name_cn": "外部控制点",
+      "name_jp": "外的統制",
+      "description": "Belief that events are controlled by external forces",
+      "category": "Individual Characteristic",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "129",
+      "name": "Introversion-Extroversion",
+      "name_cn": "内向-外向",
+      "name_jp": "内向性-外向性",
+      "description": "Dimension of personality reflecting social orientation",
+      "category": "Personality",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "130",
+      "name": "Dogmatism",
+      "name_cn": "教条主义",
+      "name_jp": "ドグマティズム",
+      "description": "Cognitive style characterized by closed-mindedness",
+      "category": "Personality",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "131",
+      "name": "Authoritarianism",
+      "name_cn": "权威主义",
+      "name_jp": "権威主義",
+      "description": "Orientation toward authority and hierarchical relationships",
+      "category": "Personality",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "132",
+      "name": "Work Performance",
+      "name_cn": "工作绩效",
+      "name_jp": "仕事パフォーマンス",
+      "description": "Quality and quantity of work output",
+      "category": "Performance Outcome",
+      "labels": [
+        "Outcome"
+      ]
+    },
+    {
+      "id": "133",
+      "name": "Organizational Citizenship Behavior",
+      "name_cn": "组织公民行为",
+      "name_jp": "組織市民行動",
+      "description": "Voluntary behaviors that benefit the organization",
+      "category": "Performance Outcome",
+      "labels": [
+        "Outcome"
+      ]
+    },
+    {
+      "id": "134",
+      "name": "Turnover Intention",
+      "name_cn": "离职意向",
+      "name_jp": "離職意向",
+      "description": "Employee's intention to leave the organization",
+      "category": "Performance Outcome",
+      "labels": [
+        "Outcome"
+      ]
+    },
+    {
+      "id": "135",
+      "name": "Absenteeism",
+      "name_cn": "缺勤",
+      "name_jp": "欠勤",
+      "description": "Frequency of employee absence from work",
+      "category": "Performance Outcome",
+      "labels": [
+        "Outcome"
+      ]
+    },
+    {
+      "id": "171",
+      "name": "Learning and Reinforcement",
+      "name_cn": "学习和强化",
+      "name_jp": "学習と強化",
+      "description": "How employees acquire knowledge and skills through various learning processes",
+      "category": "Core",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "172",
+      "name": "Learning: An Introduction",
+      "name_cn": "学习：介绍",
+      "name_jp": "学習：紹介",
+      "description": "Overview of learning processes and their importance in organizations",
+      "category": "Individual",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "173",
+      "name": "Basic Models of Learning",
+      "name_cn": "基本学习模型",
+      "name_jp": "基本的な学習モデル",
+      "description": "Classical conditioning, operant conditioning, social learning, and cognitive learning",
+      "category": "Individual",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "174",
+      "name": "Reinforcement Theory",
+      "name_cn": "强化理论",
+      "name_jp": "強化理論",
+      "description": "How reinforcement shapes and maintains behavior in organizations",
+      "category": "Individual",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "175",
+      "name": "Behavior Modification",
+      "name_cn": "行为改变",
+      "name_jp": "行動修正",
+      "description": "Systematic application of reinforcement principles to change behavior",
+      "category": "Individual",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "176",
+      "name": "Classical Conditioning",
+      "name_cn": "经典条件反射",
+      "name_jp": "古典的条件付け",
+      "description": "Learning through association of neutral stimulus with unconditioned stimulus",
+      "category": "Learning Model",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "177",
+      "name": "Operant Conditioning",
+      "name_cn": "操作条件反射",
+      "name_jp": "オペラント条件付け",
+      "description": "Learning through consequences of behavior (rewards and punishments)",
+      "category": "Learning Model",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "178",
+      "name": "Social Learning Theory",
+      "name_cn": "社会学习理论",
+      "name_jp": "社会学習理論",
+      "description": "Learning through observation and imitation of role models",
+      "category": "Learning Model",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "179",
+      "name": "Cognitive Learning",
+      "name_cn": "认知学习",
+      "name_jp": "認知学習",
+      "description": "Learning through mental processes and problem-solving",
+      "category": "Learning Model",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "180",
+      "name": "Positive Reinforcement",
+      "name_cn": "正强化",
+      "name_jp": "正の強化",
+      "description": "Adding a desirable consequence to increase behavior frequency",
+      "category": "Reinforcement",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "181",
+      "name": "Negative Reinforcement",
+      "name_cn": "负强化",
+      "name_jp": "負の強化",
+      "description": "Removing an undesirable consequence to increase behavior frequency",
+      "category": "Reinforcement",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "182",
+      "name": "Punishment",
+      "name_cn": "惩罚",
+      "name_jp": "罰",
+      "description": "Adding an undesirable consequence to decrease behavior frequency",
+      "category": "Reinforcement",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "183",
+      "name": "Extinction",
+      "name_cn": "消退",
+      "name_jp": "消滅",
+      "description": "Removing reinforcement to decrease behavior frequency",
+      "category": "Reinforcement",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "184",
+      "name": "Law of Effect",
+      "name_cn": "效果律",
+      "name_jp": "効果の法則",
+      "description": "Behaviors followed by positive consequences are more likely to be repeated",
+      "category": "Reinforcement",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "185",
+      "name": "Vicarious Learning",
+      "name_cn": "替代学习",
+      "name_jp": "代理学習",
+      "description": "Learning through observation of others and their consequences",
+      "category": "Learning Process",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "186",
+      "name": "Attention",
+      "name_cn": "注意",
+      "name_jp": "注意",
+      "description": "Focusing on relevant information during learning",
+      "category": "Learning Process",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "187",
+      "name": "Retention",
+      "name_cn": "保持",
+      "name_jp": "保持",
+      "description": "Storing learned information in memory",
+      "category": "Learning Process",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "188",
+      "name": "Reproduction",
+      "name_cn": "再现",
+      "name_jp": "再現",
+      "description": "Converting learned information into observable behavior",
+      "category": "Learning Process",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "189",
+      "name": "Incentives",
+      "name_cn": "激励",
+      "name_jp": "インセンティブ",
+      "description": "Rewards or motivations that influence learning processes",
+      "category": "Learning Process",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "190",
+      "name": "Motivation to Learn",
+      "name_cn": "学习动机",
+      "name_jp": "学習動機",
+      "description": "Individual's desire and willingness to acquire new knowledge",
+      "category": "Learning Factor",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "191",
+      "name": "Prior Knowledge",
+      "name_cn": "先验知识",
+      "name_jp": "先行知識",
+      "description": "Existing knowledge that facilitates learning of new material",
+      "category": "Learning Factor",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "192",
+      "name": "Feedback",
+      "name_cn": "反馈",
+      "name_jp": "フィードバック",
+      "description": "Information about performance that enhances learning",
+      "category": "Learning Factor",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "193",
+      "name": "Whole vs Part Learning",
+      "name_cn": "整体 vs 部分学习",
+      "name_jp": "全体 vs 部分学習",
+      "description": "Learning integrated tasks as whole or learning separate parts",
+      "category": "Learning Factor",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "194",
+      "name": "Massed vs Distributed Practice",
+      "name_cn": "集中 vs 分散练习",
+      "name_jp": "集中 vs 分散練習",
+      "description": "Concentrated practice versus spaced practice over time",
+      "category": "Learning Factor",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "195",
+      "name": "Behavioral Criteria",
+      "name_cn": "行为标准",
+      "name_jp": "行動基準",
+      "description": "Clear specification of acceptable behavior and performance",
+      "category": "Behavior Modification",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "196",
+      "name": "Performance Audit",
+      "name_cn": "绩效审计",
+      "name_jp": "パフォーマンス監査",
+      "description": "Assessment of current performance against desired criteria",
+      "category": "Behavior Modification",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "197",
+      "name": "Behavioral Goals",
+      "name_cn": "行为目标",
+      "name_jp": "行動目標",
+      "description": "Specific, measurable, and achievable behavior targets",
+      "category": "Behavior Modification",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "198",
+      "name": "Shaping",
+      "name_cn": "塑造",
+      "name_jp": "形成",
+      "description": "Reinforcing successive approximations to desired behavior",
+      "category": "Behavior Modification",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "199",
+      "name": "Skill Acquisition",
+      "name_cn": "技能获得",
+      "name_jp": "スキル習得",
+      "description": "Development of new competencies and capabilities",
+      "category": "Learning Outcome",
+      "labels": [
+        "Outcome"
+      ]
+    },
+    {
+      "id": "200",
+      "name": "Behavior Change",
+      "name_cn": "行为改变",
+      "name_jp": "行動変化",
+      "description": "Modification of employee behavior through reinforcement",
+      "category": "Learning Outcome",
+      "labels": [
+        "Outcome"
+      ]
+    },
+    {
+      "id": "201",
+      "name": "Performance Improvement",
+      "name_cn": "绩效改进",
+      "name_jp": "パフォーマンス改善",
+      "description": "Enhanced work output and effectiveness",
+      "category": "Learning Outcome",
+      "labels": [
+        "Outcome"
+      ]
+    },
+    {
+      "id": "236",
+      "name": "Diversity in Organizations",
+      "name_cn": "组织中的多样性",
+      "name_jp": "組織における多様性",
+      "description": "Understanding and managing workforce diversity for organizational effectiveness",
+      "category": "Core",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "237",
+      "name": "Introduction to Workplace Diversity",
+      "name_cn": "工作场所多样性介绍",
+      "name_jp": "職場の多様性の紹介",
+      "description": "Overview of diversity dimensions and their importance in organizations",
+      "category": "Individual",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "238",
+      "name": "Impact of Diversity",
+      "name_cn": "多样性的影响",
+      "name_jp": "多様性の影響",
+      "description": "How diversity affects company performance and workforce dynamics",
+      "category": "Organizational",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "239",
+      "name": "Diversity Challenges",
+      "name_cn": "多样性挑战",
+      "name_jp": "多様性の課題",
+      "description": "Managing conflicts and challenges arising from workforce diversity",
+      "category": "Organizational",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "240",
+      "name": "Managing Diversity",
+      "name_cn": "多样性管理",
+      "name_jp": "多様性の管理",
+      "description": "Strategies and practices for effectively managing diverse workforces",
+      "category": "Organizational",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "241",
+      "name": "Gender Diversity",
+      "name_cn": "性别多样性",
+      "name_jp": "性別の多様性",
+      "description": "Differences in gender representation and gender-based experiences",
+      "category": "Visible Diversity",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "242",
+      "name": "Race and Ethnicity",
+      "name_cn": "种族和民族",
+      "name_jp": "人種と民族",
+      "description": "Racial and ethnic diversity in the workforce",
+      "category": "Visible Diversity",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "243",
+      "name": "Age Diversity",
+      "name_cn": "年龄多样性",
+      "name_jp": "年齢の多様性",
+      "description": "Generational differences and age-related workforce dynamics",
+      "category": "Visible Diversity",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "244",
+      "name": "Disability Diversity",
+      "name_cn": "残疾多样性",
+      "name_jp": "障害の多様性",
+      "description": "Inclusion of employees with physical and mental disabilities",
+      "category": "Visible Diversity",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "245",
+      "name": "Sexual Orientation",
+      "name_cn": "性取向",
+      "name_jp": "性的指向",
+      "description": "LGBTQ+ diversity and inclusion in workplace",
+      "category": "Hidden Diversity",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "246",
+      "name": "Gender Identity",
+      "name_cn": "性别认同",
+      "name_jp": "性自認",
+      "description": "Diversity in gender identity and expression",
+      "category": "Hidden Diversity",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "247",
+      "name": "National Origin",
+      "name_cn": "国籍",
+      "name_jp": "国籍",
+      "description": "Diversity based on country of origin and cultural background",
+      "category": "Hidden Diversity",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "248",
+      "name": "Religion",
+      "name_cn": "宗教",
+      "name_jp": "宗教",
+      "description": "Religious beliefs and practices diversity",
+      "category": "Hidden Diversity",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "249",
+      "name": "Women Employees",
+      "name_cn": "女性员工",
+      "name_jp": "女性従業員",
+      "description": "Female workforce members and gender-related workplace experiences",
+      "category": "Demographic Group",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "250",
+      "name": "Black Employees",
+      "name_cn": "黑人员工",
+      "name_jp": "黒人従業員",
+      "description": "African American and Black workforce members",
+      "category": "Demographic Group",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "251",
+      "name": "Asian and Asian American Employees",
+      "name_cn": "亚洲和亚裔员工",
+      "name_jp": "アジア系従業員",
+      "description": "Asian and Asian American workforce members",
+      "category": "Demographic Group",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "252",
+      "name": "Multiracial Employees",
+      "name_cn": "多种族员工",
+      "name_jp": "多人種従業員",
+      "description": "Employees identifying with multiple racial backgrounds",
+      "category": "Demographic Group",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "253",
+      "name": "Older Workers",
+      "name_cn": "年长工人",
+      "name_jp": "高齢労働者",
+      "description": "Employees age 40 and above",
+      "category": "Demographic Group",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "254",
+      "name": "Younger Workers",
+      "name_cn": "年轻工人",
+      "name_jp": "若年労働者",
+      "description": "Younger generation employees and early career professionals",
+      "category": "Demographic Group",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "255",
+      "name": "LGBTQ+ Employees",
+      "name_cn": "LGBTQ+员工",
+      "name_jp": "LGBTQ+従業員",
+      "description": "Lesbian, gay, bisexual, transgender, and queer employees",
+      "category": "Demographic Group",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "256",
+      "name": "Employees with Disabilities",
+      "name_cn": "残疾员工",
+      "name_jp": "障害者従業員",
+      "description": "Employees with physical or mental disabilities",
+      "category": "Demographic Group",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "257",
+      "name": "Workplace Discrimination",
+      "name_cn": "工作场所歧视",
+      "name_jp": "職場差別",
+      "description": "Unfair treatment based on protected characteristics",
+      "category": "Discrimination",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "258",
+      "name": "Harassment",
+      "name_cn": "骚扰",
+      "name_jp": "ハラスメント",
+      "description": "Unwelcome conduct based on protected characteristics",
+      "category": "Discrimination",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "259",
+      "name": "Sexual Harassment",
+      "name_cn": "性骚扰",
+      "name_jp": "セクシュアルハラスメント",
+      "description": "Harassment based on sex including unwanted advances",
+      "category": "Discrimination",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "260",
+      "name": "Age Discrimination",
+      "name_cn": "年龄歧视",
+      "name_jp": "年齢差別",
+      "description": "Unfair treatment based on age, especially for employees 40+",
+      "category": "Discrimination",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "261",
+      "name": "Disability Discrimination",
+      "name_cn": "残疾歧视",
+      "name_jp": "障害者差別",
+      "description": "Unfair treatment based on disability status",
+      "category": "Discrimination",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "262",
+      "name": "Reverse Discrimination",
+      "name_cn": "反向歧视",
+      "name_jp": "逆差別",
+      "description": "Perceived discrimination against dominant groups",
+      "category": "Discrimination",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "263",
+      "name": "Pay Inequity",
+      "name_cn": "薪酬不平等",
+      "name_jp": "給与格差",
+      "description": "Unequal compensation for equal work",
+      "category": "Discrimination",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "264",
+      "name": "Equal Employment Opportunity Commission",
+      "name_cn": "平等就业机会委员会",
+      "name_jp": "雇用機会均等委員会",
+      "description": "Federal agency enforcing employment discrimination laws",
+      "category": "Legal Framework",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "265",
+      "name": "Civil Rights Act of 1964",
+      "name_cn": "1964年民权法案",
+      "name_jp": "1964年公民権法",
+      "description": "Federal law prohibiting discrimination based on race, color, religion, sex, or national origin",
+      "category": "Legal Framework",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "266",
+      "name": "Equal Pay Act of 1963",
+      "name_cn": "1963年同酬法",
+      "name_jp": "1963年同一賃金法",
+      "description": "Law mandating equal pay for equal work regardless of gender",
+      "category": "Legal Framework",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "267",
+      "name": "Age Discrimination in Employment Act",
+      "name_cn": "就业年龄歧视法",
+      "name_jp": "雇用年齢差別禁止法",
+      "description": "Federal law prohibiting age discrimination for employees 40 and above",
+      "category": "Legal Framework",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "268",
+      "name": "Americans with Disabilities Act",
+      "name_cn": "美国残疾人法",
+      "name_jp": "アメリカ障害者法",
+      "description": "Federal law prohibiting discrimination against individuals with disabilities",
+      "category": "Legal Framework",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "269",
+      "name": "Discrimination and Fairness Perspective",
+      "name_cn": "歧视和公平观点",
+      "name_jp": "差別と公正の視点",
+      "description": "Focus on eliminating discrimination and ensuring fair treatment",
+      "category": "Diversity Perspective",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "270",
+      "name": "Access and Legitimacy Perspective",
+      "name_cn": "获取和合法性观点",
+      "name_jp": "アクセスと正当性の視点",
+      "description": "Leveraging diversity to access diverse markets and customer bases",
+      "category": "Diversity Perspective",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "271",
+      "name": "Integration and Learning Perspective",
+      "name_cn": "整合和学习观点",
+      "name_jp": "統合と学習の視点",
+      "description": "Using diversity to enhance organizational learning and innovation",
+      "category": "Diversity Perspective",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "272",
+      "name": "Structured Interview Process",
+      "name_cn": "结构化面试流程",
+      "name_jp": "構造化面接プロセス",
+      "description": "Standardized interview procedures to reduce bias in hiring",
+      "category": "Management Strategy",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "273",
+      "name": "Blind Recruiting",
+      "name_cn": "盲选招聘",
+      "name_jp": "ブラインド採用",
+      "description": "Removing identifying information to reduce bias in selection",
+      "category": "Management Strategy",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "274",
+      "name": "Diversity Training Programs",
+      "name_cn": "多样性培训计划",
+      "name_jp": "多様性トレーニングプログラム",
+      "description": "Educational programs to increase awareness and reduce discrimination",
+      "category": "Management Strategy",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "275",
+      "name": "Diversified Mentoring Relationships",
+      "name_cn": "多元化导师关系",
+      "name_jp": "多様化されたメンタリング関係",
+      "description": "Cross-cultural and cross-status mentoring for mutual learning",
+      "category": "Management Strategy",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "276",
+      "name": "Inclusion Programs",
+      "name_cn": "包容计划",
+      "name_jp": "インクルージョンプログラム",
+      "description": "Organizational initiatives to ensure all employees feel valued",
+      "category": "Management Strategy",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "277",
+      "name": "Competitive Advantage",
+      "name_cn": "竞争优势",
+      "name_jp": "競争優位性",
+      "description": "Enhanced market position through diverse perspectives and experiences",
+      "category": "Organizational Outcome",
+      "labels": [
+        "Outcome"
+      ]
+    },
+    {
+      "id": "278",
+      "name": "Innovation",
+      "name_cn": "创新",
+      "name_jp": "イノベーション",
+      "description": "Enhanced creativity and problem-solving from diverse teams",
+      "category": "Organizational Outcome",
+      "labels": [
+        "Outcome"
+      ]
+    },
+    {
+      "id": "279",
+      "name": "Financial Performance",
+      "name_cn": "财务绩效",
+      "name_jp": "財務パフォーマンス",
+      "description": "Improved profitability and business results",
+      "category": "Organizational Outcome",
+      "labels": [
+        "Outcome"
+      ]
+    },
+    {
+      "id": "280",
+      "name": "Employee Engagement",
+      "name_cn": "员工敬业度",
+      "name_jp": "従業員エンゲージメント",
+      "description": "Increased commitment and satisfaction among diverse employees",
+      "category": "Individual Outcome",
+      "labels": [
+        "Outcome"
+      ]
+    },
+    {
+      "id": "281",
+      "name": "Organizational Reputation",
+      "name_cn": "组织声誉",
+      "name_jp": "組織の評判",
+      "description": "Enhanced brand image and stakeholder trust",
+      "category": "Organizational Outcome",
+      "labels": [
+        "Outcome"
+      ]
+    },
+    {
+      "id": "282",
+      "name": "Chapter 19: Entrepreneurship",
+      "name_cn": "第19章：起业家精神",
+      "name_jp": "第19章：起業家精神",
+      "description": "組織行動学における起業家精神の概念、種類、成功要因、およびビジネスモデルキャンバスについて。",
+      "category": "Chapter",
+      "labels": [
+        "Chapter"
+      ]
+    },
+    {
+      "id": "288",
+      "name": "HR Compliance",
+      "name_cn": "",
+      "name_jp": "",
+      "description": "",
+      "category": "Subtopic",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "300",
+      "name": "Chapter 06: Perception and Managerial Decision Making",
+      "name_cn": "第06章：知觉与管理决策",
+      "name_jp": "第06章：知覚と管理的意思決定",
+      "description": "This chapter explores the process of perception, how it influences managerial decision-making, the types of decisions, common decision-making biases, and techniques for improving decision quality.",
+      "category": "Chapter",
+      "labels": [
+        "Chapter"
+      ]
+    },
+    {
+      "id": "301",
+      "name": "Perception",
+      "name_cn": "知觉",
+      "name_jp": "知覚",
+      "description": "A process by which individuals organize and interpret their sensory impressions in order to give meaning to their environment.",
+      "category": "Core Concept",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "302",
+      "name": "Managerial Decision Making",
+      "name_cn": "管理决策",
+      "name_jp": "管理的意思決定",
+      "description": "The process of choosing a course of action for dealing with a problem or opportunity.",
+      "category": "Core Concept",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "303",
+      "name": "Programmed Decision",
+      "name_cn": "程序化决策",
+      "name_jp": "定型的意思決定",
+      "description": "A decision that is repetitive and routine, for which a specific procedure has been developed.",
+      "category": "Decision Type",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "304",
+      "name": "Non-programmed Decision",
+      "name_cn": "非程序化决策",
+      "name_jp": "非定型的意思決定",
+      "description": "A decision that is unique and non-routine, requiring a custom-made solution.",
+      "category": "Decision Type",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "305",
+      "name": "Heuristics",
+      "name_cn": "启发式",
+      "name_jp": "ヒューリスティクス",
+      "description": "Mental shortcuts or rules of thumb that people use to make judgments quickly and efficiently.",
+      "category": "Decision Factor",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "306",
+      "name": "Bounded Rationality",
+      "name_cn": "有限理性",
+      "name_jp": "限定合理性",
+      "description": "The idea that decision makers are limited by their cognitive abilities, time, and information, leading to \"satisficing\" rather than optimizing.",
+      "category": "Theory",
+      "labels": [
+        "Theory"
+      ]
+    },
+    {
+      "id": "307",
+      "name": "The Perceptual Process",
+      "name_cn": "知觉过程",
+      "name_jp": "知覚プロセス",
+      "description": "The sequence of steps from environmental stimuli to action: selection, organization, and interpretation.",
+      "category": "Process",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "308",
+      "name": "Ethical Decision Making",
+      "name_cn": "道德决策",
+      "name_jp": "倫理的意思決定",
+      "description": "A process that requires decision makers to consider and choose among alternatives that are consistent with ethical principles.",
+      "category": "Concept",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "309",
+      "name": "Confirmation Bias",
+      "name_cn": "确认偏误",
+      "name_jp": "確証バイアス",
+      "description": "The tendency to seek out information that reaffirms past choices and to discount information that contradicts them.",
+      "category": "Bias",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "310",
+      "name": "Escalation of Commitment",
+      "name_cn": "承诺升级",
+      "name_jp": "コミットメントの段階的強化",
+      "description": "An increased commitment to a previous decision in spite of negative information.",
+      "category": "Bias",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "311",
+      "name": "Groupthink",
+      "name_cn": "群体思维",
+      "name_jp": "集団浅慮",
+      "description": "A phenomenon in which the norm for consensus overrides the realistic appraisal of alternative courses of action.",
+      "category": "Bias",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "312",
+      "name": "Common Biases in Decision Making",
+      "name_cn": "决策中的常见偏误",
+      "name_jp": "意思決定における一般的なバイアス",
+      "description": "Systematic patterns of deviation from norm or rationality in judgment.",
+      "category": "Concept",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "313",
+      "name": "Brainstorming",
+      "name_cn": "头脑风暴",
+      "name_jp": "ブレインストーミング",
+      "description": "An idea-generation process that specifically encourages any and all alternatives while withholding any criticism of those alternatives.",
+      "category": "Technique",
+      "labels": [
+        "Technique"
+      ]
+    },
+    {
+      "id": "314",
+      "name": "Nominal Group Technique",
+      "name_cn": "名义群体技术",
+      "name_jp": "名目集団法",
+      "description": "A group decision-making method where individual members meet face-to-face to pool their judgments in a systematic but independent fashion.",
+      "category": "Technique",
+      "labels": [
+        "Technique"
+      ]
+    },
+    {
+      "id": "315",
+      "name": "Delphi Technique",
+      "name_cn": "德尔菲技术",
+      "name_jp": "デルファイ法",
+      "description": "A group decision-making method where members never meet face-to-face. Input is solicited through a series of questionnaires.",
+      "category": "Technique",
+      "labels": [
+        "Technique"
+      ]
+    },
+    {
+      "id": "316",
+      "name": "Improving the Quality of Decision Making",
+      "name_cn": "提高决策质量",
+      "name_jp": "意思決定の質の向上",
+      "description": "Methods and techniques used to mitigate biases and enhance the effectiveness of individual and group decisions.",
+      "category": "Concept",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "339",
+      "name": "Chapter 7",
+      "name_cn": "第7章",
+      "name_jp": "第7章",
+      "description": "Work Motivation for Performance",
+      "category": "CHAPTER",
+      "labels": [
+        "Chapter"
+      ]
+    },
+    {
+      "id": "340",
+      "name": "Work Motivation",
+      "name_cn": "组织中的工作动机",
+      "name_jp": "組織における仕事の動機づけ",
+      "description": "The psychological forces that determine the direction of a persons behavior in an organization, a person s level of effort, and a person s level of persistence.",
+      "category": "CONCEPT",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "343",
+      "name": "Direction",
+      "name_cn": "方向",
+      "name_jp": "方向",
+      "description": "The possible behaviors the individual could engage in.",
+      "category": "CONCEPT",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "346",
+      "name": "Intensity",
+      "name_cn": "强度",
+      "name_jp": "強度",
+      "description": "How hard the individual tries.",
+      "category": "CONCEPT",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "347",
+      "name": "Content Theories",
+      "name_cn": "内容理论",
+      "name_jp": "内容理論",
+      "description": "Theories that focus on what motivates people (needs and motives).",
+      "category": "CONCEPT",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "350",
+      "name": "Process Theories",
+      "name_cn": "过程理论",
+      "name_jp": "過程理論",
+      "description": "Theories that focus on how motivation occurs (the process of motivation).",
+      "category": "CONCEPT",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "351",
+      "name": "Intrinsic Rewards",
+      "name_cn": "内在奖励",
+      "name_jp": "内発的報酬",
+      "description": "Rewards that come from the work itself, such as feeling of accomplishment or interest.",
+      "category": "CONCEPT",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "352",
+      "name": "Extrinsic Rewards",
+      "name_cn": "外在奖励",
+      "name_jp": "外発的報酬",
+      "description": "Rewards that are external to the job, such as pay, benefits, or praise.",
+      "category": "CONCEPT",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "353",
+      "name": "Learned Needs",
+      "name_cn": "习得性需求",
+      "name_jp": "学習されたニーズ",
+      "description": "Needs that are acquired over time through life experiences.",
+      "category": "CONCEPT",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "354",
+      "name": "Need for Achievement (nAch)",
+      "name_cn": "成就需求",
+      "name_jp": "達成ニーズ",
+      "description": "The desire to excel, to achieve in relation to a set of standards, to strive to succeed.",
+      "category": "CONCEPT",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "355",
+      "name": "Need for Affiliation (nAff)",
+      "name_cn": "亲和需求",
+      "name_jp": "親和ニーズ",
+      "description": "The desire for friendly and close interpersonal relationships.",
+      "category": "CONCEPT",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "356",
+      "name": "Need for Power (nPow)",
+      "name_cn": "权力需求",
+      "name_jp": "権力ニーズ",
+      "description": "The desire to influence or control others, to be responsible for others, and to have authority over others.",
+      "category": "CONCEPT",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "357",
+      "name": "Manifest Need",
+      "name_cn": "显性需求",
+      "name_jp": "顕在的ニーズ",
+      "description": "A need that is active and influences behavior.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "358",
+      "name": "Hedonism",
+      "name_cn": "享乐主义",
+      "name_jp": "快楽主義",
+      "description": "The pursuit of pleasure; sensual self-indulgence.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "359",
+      "name": "Instincts",
+      "name_cn": "本能",
+      "name_jp": "本能",
+      "description": "Innate, fixed patterns of behavior in response to certain stimuli.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "360",
+      "name": "Personal Power Seeker",
+      "name_cn": "个人权力追求者",
+      "name_jp": "個人的権力追求者",
+      "description": "An individual who seeks power for personal gain and self-glorification.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "361",
+      "name": "Social Power Seeker",
+      "name_cn": "社会权力追求者",
+      "name_jp": "社会的権力追求者",
+      "description": "An individual who seeks power to help others and the organization.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "362",
+      "name": "Existence Needs",
+      "name_cn": "生存需求",
+      "name_jp": "生存ニーズ",
+      "description": "Desires for physiological and material well-being (Alderfer s ERG Theory).",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "363",
+      "name": "Relatedness Needs",
+      "name_cn": "关系需求",
+      "name_jp": "関係ニーズ",
+      "description": "Desires for satisfying interpersonal relationships (Alderfer s ERG Theory).",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "364",
+      "name": "Growth Needs",
+      "name_cn": "成长需求",
+      "name_jp": "成長ニーズ",
+      "description": "Desires for continued personal growth and development (Alderfer s ERG Theory).",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "365",
+      "name": "Motivators",
+      "name_cn": "激励因素",
+      "name_jp": "動機づけ要因",
+      "description": "Factors that lead to job satisfaction, such as achievement, recognition, and responsibility (Herzberg s Theory).",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "366",
+      "name": "Hygiene Factors",
+      "name_cn": "保健因素",
+      "name_jp": "衛生要因",
+      "description": "Factors that prevent job dissatisfaction, such as company policy, supervision, and salary (Herzberg s Theory).",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "367",
+      "name": "Manifest Needs Theory",
+      "name_cn": "显性需求理论",
+      "name_jp": "顕在的ニーズ理論",
+      "description": "The theory that human behavior is driven by a set of needs that are active at any given time.",
+      "category": "THEORY",
+      "labels": [
+        "Theory"
+      ]
+    },
+    {
+      "id": "368",
+      "name": "Learned Needs Theory (McClelland)",
+      "name_cn": "习得性需求理论（麦克利兰）",
+      "name_jp": "学習されたニーズ理論（マクレランド）",
+      "description": "McClelland s theory that states achievement, power, and affiliation are three important needs that are acquired through life experiences.",
+      "category": "THEORY",
+      "labels": [
+        "Theory"
+      ]
+    },
+    {
+      "id": "369",
+      "name": "Maslow s Hierarchy of Needs",
+      "name_cn": "马斯洛需求层次理论",
+      "name_jp": "マズローの欲求階層説",
+      "description": "A five-tier model of human needs, often depicted as hierarchical levels within a pyramid.",
+      "category": "THEORY",
+      "labels": [
+        "Theory"
+      ]
+    },
+    {
+      "id": "370",
+      "name": "Alderfer s ERG Theory",
+      "name_cn": "奥尔德弗的ERG理论",
+      "name_jp": "アルダーファーのERG理論",
+      "description": "A simplification of Maslow s hierarchy into three categories: Existence, Relatedness, and Growth needs.",
+      "category": "THEORY",
+      "labels": [
+        "Theory"
+      ]
+    },
+    {
+      "id": "373",
+      "name": "Herzberg s Motivator-Hygiene Theory",
+      "name_cn": "赫茨伯格的双因素理论",
+      "name_jp": "ハーズバーグの動機づけ・衛生理論",
+      "description": "The theory that job satisfaction and dissatisfaction are caused by different sets of factors (motivators and hygiene factors).",
+      "category": "THEORY",
+      "labels": [
+        "Theory"
+      ]
+    },
+    {
+      "id": "374",
+      "name": "Self-Determination Theory",
+      "name_cn": "自我决定理论",
+      "name_jp": "自己決定理論",
+      "description": "A macro theory of human motivation and personality that concerns people s inherent growth tendencies and innate psychological needs.",
+      "category": "THEORY",
+      "labels": [
+        "Theory"
+      ]
+    },
+    {
+      "id": "377",
+      "name": "Operant Conditioning Theory",
+      "name_cn": "操作性条件反射理论",
+      "name_jp": "オペラント条件づけ理論",
+      "description": "A learning process through which the strength of a behavior is modified by reinforcement or punishment.",
+      "category": "THEORY",
+      "labels": [
+        "Theory"
+      ]
+    },
+    {
+      "id": "378",
+      "name": "Equity Theory",
+      "name_cn": "公平理论",
+      "name_jp": "公平理論",
+      "description": "The theory that individuals are motivated by a desire for fairness in their input-to-output ratio compared to others.",
+      "category": "THEORY",
+      "labels": [
+        "Theory"
+      ]
+    },
+    {
+      "id": "379",
+      "name": "Goal Theory",
+      "name_cn": "目标理论",
+      "name_jp": "目標設定理論",
+      "description": "The theory that specific and difficult goals, with feedback, lead to higher performance.",
+      "category": "THEORY",
+      "labels": [
+        "Theory"
+      ]
+    },
+    {
+      "id": "380",
+      "name": "Expectancy Theory",
+      "name_cn": "期望理论",
+      "name_jp": "期待理論",
+      "description": "The theory that motivation depends on the perceived link between effort, performance, and outcomes (rewards).",
+      "category": "THEORY",
+      "labels": [
+        "Theory"
+      ]
+    },
+    {
+      "id": "399",
+      "name": "Chapter 8: Performance Appraisal and Rewards",
+      "name_cn": "第8章：绩效评估与奖励",
+      "name_jp": "第8章：業績評価と報酬",
+      "description": "This chapter explores the concept of motivation, various motivation theories, and how performance appraisal and reward systems are designed to influence employee behavior.",
+      "category": "CHAPTER",
+      "labels": [
+        "Chapter"
+      ]
+    },
+    {
+      "id": "400",
+      "name": "Performance Appraisal",
+      "name_cn": "绩效评估",
+      "name_jp": "業績評価",
+      "description": "A formal system of review and evaluation of individual or team task performance.",
+      "category": "CORE_CONCEPT",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "401",
+      "name": "Rewards",
+      "name_cn": "奖励",
+      "name_jp": "報酬",
+      "description": "Monetary and non-monetary benefits provided to employees in exchange for their work.",
+      "category": "CORE_CONCEPT",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "402",
+      "name": "Content Theories of Motivation",
+      "name_cn": "动机的内容理论",
+      "name_jp": "動機付けの内容理論",
+      "description": "Theories that focus on what internal factors energize behavior.",
+      "category": "THEORY_GROUP",
+      "labels": [
+        "TheoryGroup"
+      ]
+    },
+    {
+      "id": "403",
+      "name": "Process Theories of Motivation",
+      "name_cn": "动机的过程理论",
+      "name_jp": "動機付けの過程理論",
+      "description": "Theories that focus on the process by which internal factors and cognitions influence behavior.",
+      "category": "THEORY_GROUP",
+      "labels": [
+        "TheoryGroup"
+      ]
+    },
+    {
+      "id": "404",
+      "name": "Organizational Justice",
+      "name_cn": "组织公平",
+      "name_jp": "組織公正",
+      "description": "An employee’s perception of fairness in the workplace.",
+      "category": "CORE_CONCEPT",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "405",
+      "name": "Goal Setting",
+      "name_cn": "目标设定",
+      "name_jp": "目標設定",
+      "description": "The process of establishing desired results that guide and direct behavior.",
+      "category": "CORE_CONCEPT",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "406",
+      "name": "ERG Theory",
+      "name_cn": "ERG理论",
+      "name_jp": "ERG理論",
+      "description": "Alderfer’s theory that three groups of core needs—existence, relatedness, and growth—are the source of motivation.",
+      "category": "THEORY",
+      "labels": [
+        "Theory"
+      ]
+    },
+    {
+      "id": "407",
+      "name": "Herzberg’s two-factor theory",
+      "name_cn": "赫茨伯格的双因素理论",
+      "name_jp": "ハーズバーグの二要因理論",
+      "description": "A theory that relates intrinsic factors to job satisfaction and extrinsic factors to job dissatisfaction.",
+      "category": "THEORY",
+      "labels": [
+        "Theory"
+      ]
+    },
+    {
+      "id": "408",
+      "name": "Organizational Behavior Modification",
+      "name_cn": "组织行为矫正",
+      "name_jp": "組織行動修正",
+      "description": "Applying the principles of operant conditioning to organizational settings.",
+      "category": "CORE_CONCEPT",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "409",
+      "name": "intensity",
+      "name_cn": "强度",
+      "name_jp": "強度",
+      "description": "How hard a person tries.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "410",
+      "name": "direction",
+      "name_cn": "方向",
+      "name_jp": "方向",
+      "description": "The orientation toward a beneficial goal.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "411",
+      "name": "intrinsic motivation",
+      "name_cn": "内在动机",
+      "name_jp": "内発的動機付け",
+      "description": "Motivation that comes from within a person, such as the enjoyment of the task itself.",
+      "category": "CORE_CONCEPT",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "412",
+      "name": "extrinsic motivation",
+      "name_cn": "外在动机",
+      "name_jp": "外発的動機付け",
+      "description": "Motivation that comes from outside the person, such as pay, bonuses, or other tangible rewards.",
+      "category": "CORE_CONCEPT",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "413",
+      "name": "effort-performance expectancy (E1)",
+      "name_cn": "努力-绩效期望",
+      "name_jp": "努力-業績期待",
+      "description": "The perceived probability that exerting a given amount of effort will lead to performance.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "414",
+      "name": "performance-outcome expectancy (E2)",
+      "name_cn": "绩效-结果期望",
+      "name_jp": "業績-報酬期待",
+      "description": "The perceived probability that successfully performing at a particular level will lead to the attainment of a desired outcome.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "415",
+      "name": "valences",
+      "name_cn": "效价",
+      "name_jp": "誘意性",
+      "description": "The attractiveness or importance of the potential outcome to the individual.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "416",
+      "name": "input",
+      "name_cn": "投入",
+      "name_jp": "投入",
+      "description": "What an employee brings to the job (e.g., effort, experience, education).",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "417",
+      "name": "outcome",
+      "name_cn": "产出",
+      "name_jp": "産出",
+      "description": "What an employee gets from the job (e.g., pay, recognition, benefits).",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "418",
+      "name": "referent others",
+      "name_cn": "参照对象",
+      "name_jp": "参照他者",
+      "description": "The individuals or groups against which an employee compares their ratio of inputs to outcomes.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "419",
+      "name": "underreward inequity",
+      "name_cn": "报酬不足的不公平",
+      "name_jp": "過小報酬の不公平",
+      "description": "The perception that one’s own outcome-to-input ratio is less than that of a referent other.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "420",
+      "name": "overreward inequity",
+      "name_cn": "报酬过度的不公平",
+      "name_jp": "過大報酬の不公平",
+      "description": "The perception that one’s own outcome-to-input ratio is greater than that of a referent other.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "421",
+      "name": "goal commitment",
+      "name_cn": "目标承诺",
+      "name_jp": "目標コミットメント",
+      "description": "The degree to which an individual is determined to reach a goal.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "422",
+      "name": "positive reinforcement",
+      "name_cn": "正强化",
+      "name_jp": "正の強化",
+      "description": "Following a response with something pleasant.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "423",
+      "name": "avoidance learning",
+      "name_cn": "回避学习",
+      "name_jp": "回避学習",
+      "description": "Reinforcing a desired behavior by removing an unpleasant consequence (Negative Reinforcement).",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "424",
+      "name": "punishment",
+      "name_cn": "惩罚",
+      "name_jp": "懲罰",
+      "description": "Applying an undesirable consequence to decrease an undesirable behavior.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "425",
+      "name": "extinction",
+      "name_cn": "消退",
+      "name_jp": "消去",
+      "description": "Withholding a positive consequence to decrease an undesirable behavior.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "426",
+      "name": "hygienes",
+      "name_cn": "保健因素",
+      "name_jp": "衛生要因",
+      "description": "Factors that prevent job dissatisfaction but do not lead to satisfaction (e.g., salary, working conditions, company policy).",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "427",
+      "name": "need for achievement (nAch)",
+      "name_cn": "成就需求",
+      "name_jp": "達成欲求",
+      "description": "The drive to excel, to achieve in relation to a set of standards, and to strive to succeed.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "428",
+      "name": "need for power (nPow)",
+      "name_cn": "权力需求",
+      "name_jp": "権力欲求",
+      "description": "The need to make others behave in a way that they would not have behaved otherwise.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "429",
+      "name": "need for affiliation (nAff)",
+      "name_cn": "亲和需求",
+      "name_jp": "親和欲求",
+      "description": "The desire for friendly and close interpersonal relationships.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "430",
+      "name": "Distributive Justice",
+      "name_cn": "分配公平",
+      "name_jp": "分配的公正",
+      "description": "Perceived fairness of the amount and allocation of rewards among individuals.",
+      "category": "SUB_CONCEPT",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "431",
+      "name": "Procedural Justice",
+      "name_cn": "程序公平",
+      "name_jp": "手続的公正",
+      "description": "Perceived fairness of the process used to determine the distribution of rewards.",
+      "category": "SUB_CONCEPT",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "432",
+      "name": "Chapter 9: Group and Intergroup Relations",
+      "name_cn": "第9章：群体与群体间关系",
+      "name_jp": "第9章：集団と集団間関係",
+      "description": "The study of how groups form, their internal structure, dynamics, and how they interact with other groups.",
+      "category": "CHAPTER",
+      "labels": [
+        "Chapter"
+      ]
+    },
+    {
+      "id": "433",
+      "name": "Work Group Types and Formation",
+      "name_cn": "工作群体的类型与形成",
+      "name_jp": "ワークグループの種類と形成",
+      "description": "Different classifications of work groups and the process by which they are established.",
+      "category": "CONCEPT",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "434",
+      "name": "Group Structure (Norms, Roles, Status)",
+      "name_cn": "群体结构（规范、角色、地位）",
+      "name_jp": "集団構造（規範、役割、地位）",
+      "description": "The internal framework of a group, including established patterns of relationships, norms, roles, and status systems.",
+      "category": "CONCEPT",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "435",
+      "name": "Group Cohesiveness and Effectiveness",
+      "name_cn": "群体凝聚力与有效性",
+      "name_jp": "集団の凝集性と有効性",
+      "description": "The degree to which members are attracted to the group and motivated to stay in it, and how this relates to group performance.",
+      "category": "CONCEPT",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "436",
+      "name": "Intergroup Behavior and Performance",
+      "name_cn": "群体间行为与绩效",
+      "name_jp": "集団間行動とパフォーマンス",
+      "description": "The dynamics and outcomes of interactions between two or more groups.",
+      "category": "CONCEPT",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "437",
+      "name": "Managing Interdependence and Conflict",
+      "name_cn": "相互依赖性与冲突的管理",
+      "name_jp": "相互依存性と対立の管理",
+      "description": "Strategies for handling the reliance of groups on each other and resolving disagreements that arise.",
+      "category": "CONCEPT",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "438",
+      "name": "Asch’s experiment in group pressure and individual judgment",
+      "name_cn": "阿希的群体压力与个体判断实验",
+      "name_jp": "アッシュの集団圧力と個人判断に関する実験",
+      "description": "A classic study demonstrating the power of conformity and group pressure on an individual's judgment.",
+      "category": "THEORY",
+      "labels": [
+        "Theory"
+      ]
+    },
+    {
+      "id": "439",
+      "name": "Stages of Group Development (Forming, Storming, Norming, Performing)",
+      "name_cn": "群体发展阶段（形成、风暴、规范、执行）",
+      "name_jp": "集団発達の段階（形成期、混乱期、規範確立期、遂行期）",
+      "description": "A model describing the five sequential stages that most groups go through: forming, storming, norming, performing, and adjourning (though adjourning is often omitted in OB context).",
+      "category": "THEORY",
+      "labels": [
+        "Theory"
+      ]
+    },
+    {
+      "id": "440",
+      "name": "Role Episode Model",
+      "name_cn": "角色情节模型",
+      "name_jp": "役割エピソードモデル",
+      "description": "A model that explains how a person's role is defined and enacted through a series of interactions with others (role senders).",
+      "category": "THEORY",
+      "labels": [
+        "Theory"
+      ]
+    },
+    {
+      "id": "441",
+      "name": "Work Groups: Basic Considerations",
+      "name_cn": "工作群体：基本考量",
+      "name_jp": "ワークグループ：基本的考察",
+      "description": "Fundamental definitions and distinctions of various types of work groups.",
+      "category": "SUBTOPIC",
+      "labels": [
+        "Subtopic"
+      ]
+    },
+    {
+      "id": "442",
+      "name": "Work Group Structure",
+      "name_cn": "工作群体结构",
+      "name_jp": "ワークグループの構造",
+      "description": "The elements that define the internal organization of a work group, such as norms, roles, and status.",
+      "category": "SUBTOPIC",
+      "labels": [
+        "Subtopic"
+      ]
+    },
+    {
+      "id": "443",
+      "name": "Managing Effective Work Groups",
+      "name_cn": "管理有效的工作群体",
+      "name_jp": "効果的なワークグループの管理",
+      "description": "Techniques and factors that contribute to a work group's high performance and goal achievement.",
+      "category": "SUBTOPIC",
+      "labels": [
+        "Subtopic"
+      ]
+    },
+    {
+      "id": "444",
+      "name": "Intergroup Behavior and Performance",
+      "name_cn": "群体间行为与绩效",
+      "name_jp": "集団間行動とパフォーマンス",
+      "description": "The study of how groups interact with each other and the resulting impact on organizational performance.",
+      "category": "SUBTOPIC",
+      "labels": [
+        "Subtopic"
+      ]
+    },
+    {
+      "id": "445",
+      "name": "Command group",
+      "name_cn": "指挥群体",
+      "name_jp": "指揮集団",
+      "description": "A group composed of the employees who report directly to a given manager.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "446",
+      "name": "Decoupling",
+      "name_cn": "解耦",
+      "name_jp": "デカップリング",
+      "description": "A strategy to reduce the need for coordination between interdependent groups.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "447",
+      "name": "Formal group",
+      "name_cn": "正式群体",
+      "name_jp": "公式集団",
+      "description": "A work group defined by the organization's structure with designated work assignments and established tasks.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "448",
+      "name": "Friendship group",
+      "name_cn": "友谊群体",
+      "name_jp": "友好集団",
+      "description": "An informal group that forms because the individual members have one or more common characteristics.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "449",
+      "name": "Group",
+      "name_cn": "群体",
+      "name_jp": "集団",
+      "description": "Two or more individuals, interacting and interdependent, who have come together to achieve particular objectives.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "450",
+      "name": "Group cohesiveness",
+      "name_cn": "群体凝聚力",
+      "name_jp": "集団の凝集性",
+      "description": "The degree to which group members are attracted to each other and are motivated to stay in the group.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "451",
+      "name": "Informal group",
+      "name_cn": "非正式群体",
+      "name_jp": "非公式集団",
+      "description": "A group that is neither formally structured nor organizationally determined; appears in response to the need for social contact.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "452",
+      "name": "Information flow",
+      "name_cn": "信息流",
+      "name_jp": "情報フロー",
+      "description": "The pattern of communication among group members or between groups.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "453",
+      "name": "Interaction process analysis",
+      "name_cn": "互动过程分析",
+      "name_jp": "相互作用過程分析",
+      "description": "A technique for observing and classifying the verbal behaviors of group members.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "454",
+      "name": "Interest group",
+      "name_cn": "利益群体",
+      "name_jp": "利益集団",
+      "description": "An informal group that forms to attain a specific objective with which each member is concerned.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "455",
+      "name": "Linking role",
+      "name_cn": "连接角色",
+      "name_jp": "連結役割",
+      "description": "A role whose primary purpose is to coordinate the activities of two or more groups.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "456",
+      "name": "Norms",
+      "name_cn": "规范",
+      "name_jp": "規範",
+      "description": "Acceptable standards of behavior within a group that are shared by the group's members.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "457",
+      "name": "Pooled interdependence",
+      "name_cn": "汇集式相互依赖",
+      "name_jp": "集合的相互依存性",
+      "description": "The lowest level of interdependence, where groups work independently and their output is simply aggregated.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "458",
+      "name": "Reciprocal interdependence",
+      "name_cn": "互惠式相互依赖",
+      "name_jp": "相互的相互依存性",
+      "description": "The highest level of interdependence, where the output of one group becomes the input for another, and vice versa.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "459",
+      "name": "Role ambiguity",
+      "name_cn": "角色模糊",
+      "name_jp": "役割の曖昧さ",
+      "description": "A person's uncertainty about what is expected of him or her in a particular role.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "460",
+      "name": "Role conflict",
+      "name_cn": "角色冲突",
+      "name_jp": "役割の対立",
+      "description": "A situation in which an individual is confronted by divergent role expectations.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "461",
+      "name": "Role episode",
+      "name_cn": "角色情节",
+      "name_jp": "役割エピソード",
+      "description": "A sequence of events involving role senders, the focal person, and the resulting role behavior.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "462",
+      "name": "Role overload",
+      "name_cn": "角色超载",
+      "name_jp": "役割の過負荷",
+      "description": "A condition in which an individual is expected to do more than time or ability permits.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "463",
+      "name": "Role set",
+      "name_cn": "角色集合",
+      "name_jp": "役割集合",
+      "description": "All the different role senders who influence a focal person's role.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "464",
+      "name": "Sequential interdependence",
+      "name_cn": "顺序式相互依赖",
+      "name_jp": "連続的相互依存性",
+      "description": "A moderate level of interdependence, where the output of one group becomes the input for the next group.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "465",
+      "name": "Social loafing",
+      "name_cn": "社会惰化",
+      "name_jp": "社会的手抜き",
+      "description": "The tendency for individuals to expend less effort when working collectively than when working individually.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "466",
+      "name": "Status incongruence",
+      "name_cn": "地位不一致",
+      "name_jp": "地位の不一致",
+      "description": "A situation where a person's various statuses are not aligned or consistent with each other.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "467",
+      "name": "Status system",
+      "name_cn": "地位系统",
+      "name_jp": "地位システム",
+      "description": "A formal or informal system that differentiates group members based on prestige, power, or rank.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "468",
+      "name": "Task force",
+      "name_cn": "任务小组",
+      "name_jp": "タスクフォース",
+      "description": "A temporary formal group created to accomplish a specific, short-term task.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "469",
+      "name": "Task group",
+      "name_cn": "任务群体",
+      "name_jp": "タスク集団",
+      "description": "A formal group composed of employees who work together to complete a job task.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "470",
+      "name": "Task uncertainty",
+      "name_cn": "任务不确定性",
+      "name_jp": "タスクの不確実性",
+      "description": "The degree to which the exact nature of the task and the methods for accomplishing it are unclear.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "471",
+      "name": "Work role",
+      "name_cn": "工作角色",
+      "name_jp": "ワークロール",
+      "description": "A set of expected behavior patterns attributed to someone occupying a given position in a social unit.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "472",
+      "name": "Work technology",
+      "name_cn": "工作技术",
+      "name_jp": "作業技術",
+      "description": "The process by which an organization transforms inputs into outputs.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "481",
+      "name": "Leadership",
+      "name_cn": "领导力",
+      "name_jp": "リーダーシップ",
+      "description": "The study of how individuals influence others to achieve a common goal.",
+      "category": "Chapter",
+      "labels": [
+        "Chapter"
+      ]
+    },
+    {
+      "id": "482",
+      "name": "Leader Traits",
+      "name_cn": "领导者特性",
+      "name_jp": "リーダーの特性",
+      "description": "Innate or acquired characteristics that distinguish leaders from non-leaders.",
+      "category": "Concept",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "483",
+      "name": "Leadership as an Exercise of Influence",
+      "name_cn": "作为影响力行使的领导力",
+      "name_jp": "影響力としてのリーダーシップ",
+      "description": "The process of influencing a group toward the achievement of goals.",
+      "category": "Concept",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "484",
+      "name": "Leader Behaviors",
+      "name_cn": "领导者行为",
+      "name_jp": "リーダーの行動",
+      "description": "Observable actions and activities of leaders.",
+      "category": "Concept",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "485",
+      "name": "Situational Leadership",
+      "name_cn": "情境领导力",
+      "name_jp": "状況的リーダーシップ",
+      "description": "Leadership effectiveness depends on the situation and the readiness of followers.",
+      "category": "Concept",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "486",
+      "name": "Cross-Cultural Context of Leadership",
+      "name_cn": "领导力的跨文化背景",
+      "name_jp": "異文化間リーダーシップ",
+      "description": "How cultural values influence leadership styles and effectiveness.",
+      "category": "Concept",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "487",
+      "name": "Great Man Theory",
+      "name_cn": "伟人理论",
+      "name_jp": "偉人説",
+      "description": "The belief that leaders are born, not made, possessing heroic qualities.",
+      "category": "Theory",
+      "labels": [
+        "Theory"
+      ]
+    },
+    {
+      "id": "488",
+      "name": "Trait Approach to Leadership",
+      "name_cn": "领导力特质方法",
+      "name_jp": "特性アプローチ",
+      "description": "Focuses on identifying the personal characteristics that differentiate leaders from followers.",
+      "category": "Theory",
+      "labels": [
+        "Theory"
+      ]
+    },
+    {
+      "id": "489",
+      "name": "Leadership Grid (Blake and Mouton)",
+      "name_cn": "领导力方格",
+      "name_jp": "リーダーシップ・グリッド",
+      "description": "A model that identifies five different leadership styles based on a leader's concern for people and concern for production.",
+      "category": "Theory",
+      "labels": [
+        "Theory"
+      ]
+    },
+    {
+      "id": "490",
+      "name": "Path-Goal Theory of Leadership",
+      "name_cn": "路径-目标理论",
+      "name_jp": "パス・ゴール理論",
+      "description": "A contingency theory that states a leader's behavior is acceptable to subordinates to the degree that they view it as a source of immediate or future satisfaction.",
+      "category": "Theory",
+      "labels": [
+        "Theory"
+      ]
+    },
+    {
+      "id": "491",
+      "name": "Idiosyncrasy Credits",
+      "name_cn": "特异性信用",
+      "name_jp": "特異性クレジット",
+      "description": "The positive impressions a leader accumulates, allowing them to deviate from group norms without penalty.",
+      "category": "Term",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "492",
+      "name": "Leadership Motivation",
+      "name_cn": "领导力动机",
+      "name_jp": "リーダーシップ動機",
+      "description": "The desire to influence and lead others.",
+      "category": "Term",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "493",
+      "name": "Self-Confidence",
+      "name_cn": "自信",
+      "name_jp": "自信",
+      "description": "Belief in one's own ability to succeed.",
+      "category": "Term",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "494",
+      "name": "Cognitive Ability",
+      "name_cn": "认知能力",
+      "name_jp": "認知能力",
+      "description": "The capacity to learn, reason, and solve problems.",
+      "category": "Term",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "495",
+      "name": "Concern for Results",
+      "name_cn": "对成果的关注",
+      "name_jp": "成果への関心",
+      "description": "The degree to which a leader emphasizes organizational efficiency and task accomplishment.",
+      "category": "Term",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "496",
+      "name": "Concern for People",
+      "name_cn": "对人的关注",
+      "name_jp": "人への関心",
+      "description": "The degree to which a leader emphasizes employee needs, relationships, and well-being.",
+      "category": "Term",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "497",
+      "name": "Directive Leadership",
+      "name_cn": "指示型领导",
+      "name_jp": "指示的リーダーシップ",
+      "description": "The leader lets subordinates know what is expected of them, gives specific guidance, and schedules work.",
+      "category": "Term",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "498",
+      "name": "Supportive Leadership",
+      "name_cn": "支持型领导",
+      "name_jp": "支援的リーダーシップ",
+      "description": "The leader is friendly and shows concern for the status, well-being, and needs of subordinates.",
+      "category": "Term",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "499",
+      "name": "Participative Leadership",
+      "name_cn": "参与型领导",
+      "name_jp": "参加的リーダーシップ",
+      "description": "The leader consults with subordinates and uses their suggestions before making a decision.",
+      "category": "Term",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "500",
+      "name": "Achievement-Oriented Leadership",
+      "name_cn": "成就导向型领导",
+      "name_jp": "達成志向的リーダーシップ",
+      "description": "The leader sets challenging goals and expects subordinates to perform at their highest level.",
+      "category": "Term",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "501",
+      "name": "Communication",
+      "name_cn": "沟通",
+      "name_jp": "コミュニケーション",
+      "description": "The transfer and understanding of meaning.",
+      "category": "CHAPTER",
+      "labels": [
+        "Chapter"
+      ]
+    },
+    {
+      "id": "502",
+      "name": "Communication Process",
+      "name_cn": "沟通流程",
+      "name_jp": "コミュニケーションプロセス",
+      "description": "The steps between a source and a receiver that result in the transfer and understanding of meaning.",
+      "category": "CORE_CONCEPT",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "503",
+      "name": "Types of Organizational Communication",
+      "name_cn": "组织沟通的类型",
+      "name_jp": "組織コミュニケーションのタイプ",
+      "description": "Different forms and directions of communication within an organization.",
+      "category": "CORE_CONCEPT",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "504",
+      "name": "Influences on Communication",
+      "name_cn": "沟通的影响因素",
+      "name_jp": "コミュニケーションへの影響",
+      "description": "Factors like power, status, and interpersonal skills that affect communication effectiveness.",
+      "category": "CORE_CONCEPT",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "505",
+      "name": "Corporate Reputation and Communication",
+      "name_cn": "企业声誉与沟通",
+      "name_jp": "企業評判とコミュニケーション",
+      "description": "How communication strategies impact and are impacted by an organization's reputation.",
+      "category": "CORE_CONCEPT",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "506",
+      "name": "Managerial Communication Skills",
+      "name_cn": "管理沟通技巧",
+      "name_jp": "管理者のコミュニケーションスキル",
+      "description": "Skills such as talking, listening, reading, and writing essential for effective management.",
+      "category": "SKILL",
+      "labels": [
+        "Skill"
+      ]
+    },
+    {
+      "id": "507",
+      "name": "Media Richness Theory",
+      "name_cn": "媒体丰富度理论",
+      "name_jp": "メディアリッチネス理論",
+      "description": "A framework for selecting the appropriate communication channel based on its capacity to convey information.",
+      "category": "THEORY",
+      "labels": [
+        "Theory"
+      ]
+    },
+    {
+      "id": "508",
+      "name": "Sender",
+      "name_cn": "发送者",
+      "name_jp": "送信者",
+      "description": "The source of the message.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "509",
+      "name": "Encoding",
+      "name_cn": "编码",
+      "name_jp": "エンコーディング",
+      "description": "Converting a message to symbolic form.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "510",
+      "name": "Channel",
+      "name_cn": "渠道",
+      "name_jp": "チャネル",
+      "description": "The medium through which the message travels.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "511",
+      "name": "Decoding",
+      "name_cn": "解码",
+      "name_jp": "デコーディング",
+      "description": "Translating a sender’s message.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "512",
+      "name": "Receiver",
+      "name_cn": "接收者",
+      "name_jp": "受信者",
+      "description": "The person to whom the message is directed.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "513",
+      "name": "Noise",
+      "name_cn": "噪音",
+      "name_jp": "ノイズ",
+      "description": "Communication barriers that distort the clarity of the message.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "514",
+      "name": "Feedback",
+      "name_cn": "反馈",
+      "name_jp": "フィードバック",
+      "description": "The check on how successful the message was transferred.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "515",
+      "name": "Formal Communication",
+      "name_cn": "正式沟通",
+      "name_jp": "公式コミュニケーション",
+      "description": "Communication that follows the official chain of command.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "516",
+      "name": "Informal Communication",
+      "name_cn": "非正式沟通",
+      "name_jp": "非公式コミュニケーション",
+      "description": "Communication that is not officially sanctioned by the organization.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "517",
+      "name": "Downward Communication",
+      "name_cn": "下行沟通",
+      "name_jp": "下方コミュニケーション",
+      "description": "Communication that flows from a higher level to a lower level in the organization.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "518",
+      "name": "Upward Communication",
+      "name_cn": "上行沟通",
+      "name_jp": "上方コミュニケーション",
+      "description": "Communication that flows to a higher level in the organization.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "519",
+      "name": "Horizontal Communication",
+      "name_cn": "横向沟通",
+      "name_jp": "水平コミュニケーション",
+      "description": "Communication among members at the same level.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "520",
+      "name": "Grapevine",
+      "name_cn": "小道消息",
+      "name_jp": "非公式ネットワーク (うわさ)",
+      "description": "The organization’s informal communication network.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "521",
+      "name": "Media Richness",
+      "name_cn": "媒体丰富度",
+      "name_jp": "メディアリッチネス",
+      "description": "The capacity of a communication channel to convey information.",
+      "category": "TERM",
+      "labels": [
+        "Term"
+      ]
+    },
+    {
+      "id": "522",
+      "name": "Active Listening",
+      "name_cn": "积极倾听",
+      "name_jp": "アクティブリスニング",
+      "description": "Fully concentrating on what is being said rather than just passively hearing the message.",
+      "category": "SKILL",
+      "labels": [
+        "Skill"
+      ]
+    },
+    {
+      "id": "523",
+      "name": "Effective Writing",
+      "name_cn": "有效写作",
+      "name_jp": "効果的なライティング",
+      "description": "The ability to convey a message clearly and concisely in written form.",
+      "category": "SKILL",
+      "labels": [
+        "Skill"
+      ]
+    },
+    {
+      "id": "524",
+      "name": "Power",
+      "name_cn": "权力",
+      "name_jp": "権力",
+      "description": "The ability to influence communication flow and content.",
+      "category": "FACTOR",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "525",
+      "name": "Status",
+      "name_cn": "地位",
+      "name_jp": "地位",
+      "description": "An individual's position in the hierarchy affecting communication patterns.",
+      "category": "FACTOR",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "526",
+      "name": "Interpersonal Skills",
+      "name_cn": "人际交往能力",
+      "name_jp": "対人スキル",
+      "description": "The ability to interact effectively with others, crucial for communication.",
+      "category": "FACTOR",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "533",
+      "name": "Power Dependencies",
+      "name_cn": "权力依赖",
+      "name_jp": "パワーの依存関係",
+      "description": "Concept related to Power Dependencies in organizational behavior.",
+      "category": "Concept",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "534",
+      "name": "Authority",
+      "name_cn": "职权",
+      "name_jp": "権限",
+      "description": "Concept related to Authority in organizational behavior.",
+      "category": "Concept",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "535",
+      "name": "Ethical Use of Power",
+      "name_cn": "权力的道德使用",
+      "name_jp": "パワーの倫理的な使用",
+      "description": "Concept related to Ethical Use of Power in organizational behavior.",
+      "category": "Concept",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "536",
+      "name": "Etzioni's Types of Power (Coercive, Utilitarian, Normative)",
+      "name_cn": "埃齐奥尼的权力类型（强制性、功利性、规范性）",
+      "name_jp": "エツィオーニのパワーの類型（強制的、功利的、規範的）",
+      "description": "Etzioni's model describing how different types of power evoke different levels of involvement.",
+      "category": "Theory",
+      "labels": [
+        "Theory"
+      ]
+    },
+    {
+      "id": "537",
+      "name": "Legitimate Power",
+      "name_cn": "法定权力",
+      "name_jp": "正当なパワー",
+      "description": "Power based on a person’s position in the formal hierarchy.",
+      "category": "Concept",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "538",
+      "name": "Organizational Politics Direct Feedback",
+      "name_cn": "组织政治直接反馈",
+      "name_jp": "組織政治の直接的なフィードバック",
+      "description": "",
+      "category": "Concept",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "539",
+      "name": "Reward Power",
+      "name_cn": "奖赏权力",
+      "name_jp": "報酬的パワー",
+      "description": "Compliance achieved based on the ability to distribute rewards.",
+      "category": "Concept",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "540",
+      "name": "Coalition",
+      "name_cn": "联盟",
+      "name_jp": "連盟",
+      "description": "",
+      "category": "Concept",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "541",
+      "name": "Consultation",
+      "name_cn": "咨询",
+      "name_jp": "コンサルテーション",
+      "description": "",
+      "category": "Concept",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "542",
+      "name": "Expert Power",
+      "name_cn": "专家权力",
+      "name_jp": "専門的パワー",
+      "description": "",
+      "category": "Concept",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "543",
+      "name": "Political Skill in Interpersonal Relations",
+      "name_cn": "人际关系中的政治技能",
+      "name_jp": "対人関係における政治的スキル",
+      "description": "",
+      "category": "Concept",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "544",
+      "name": "Referent Power",
+      "name_cn": "参照权力",
+      "name_jp": "参照的パワー",
+      "description": "",
+      "category": "Concept",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "545",
+      "name": "Coercive Power",
+      "name_cn": "强制权力",
+      "name_jp": "強制的パワー",
+      "description": "",
+      "category": "Concept",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "546",
+      "name": "Norms",
+      "name_cn": "规范",
+      "name_jp": "規範",
+      "description": "",
+      "category": "Concept",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "547",
+      "name": "Types of Power",
+      "name_cn": "权力类型",
+      "name_jp": "パワーの類型",
+      "description": "",
+      "category": "Concept",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "548",
+      "name": "Power",
+      "name_cn": "权力",
+      "name_jp": "パワー",
+      "description": "",
+      "category": "Concept",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "549",
+      "name": "Sources of Power",
+      "name_cn": "权力来源",
+      "name_jp": "パワーの源泉",
+      "description": "",
+      "category": "Concept",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "550",
+      "name": "Culture",
+      "name_cn": "文化",
+      "name_jp": "文化",
+      "description": "",
+      "category": "Concept",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "551",
+      "name": "Building Coalitions or Politicking",
+      "name_cn": "建立联盟或进行政治活动",
+      "name_jp": "連盟の構築または政治活動",
+      "description": "",
+      "category": "Concept",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "552",
+      "name": "Subordinate's Values",
+      "name_cn": "下属的价值观",
+      "name_jp": "部下の価値観",
+      "description": "",
+      "category": "Factor",
+      "labels": [
+        "Factor"
+      ]
+    },
+    {
+      "id": "553",
+      "name": "Interpersonal Relations",
+      "name_cn": "人际关系",
+      "name_jp": "対人関係",
+      "description": "",
+      "category": "Concept",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "554",
+      "name": "Bases of Power",
+      "name_cn": "权力基础",
+      "name_jp": "パワーの基盤",
+      "description": "",
+      "category": "Concept",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "555",
+      "name": "French and Raven's Bases of Power",
+      "name_cn": "弗伦奇和雷文的权力基础",
+      "name_jp": "フレンチとレイヴンのパワーの源泉",
+      "description": "",
+      "category": "Theory",
+      "labels": [
+        "Theory"
+      ]
+    },
+    {
+      "id": "556",
+      "name": "Organizational Politics",
+      "name_cn": "组织政治",
+      "name_jp": "組織政治",
+      "description": "",
+      "category": "Concept",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "557",
+      "name": "Conflict and Negotiations",
+      "name_cn": "冲突与谈判",
+      "name_jp": "コンフリクトと交渉",
+      "description": "Examining the nature, types, resolution strategies, and negotiation processes of conflict in organizations.",
+      "category": "Chapter",
+      "labels": [
+        "CHAPTER"
+      ]
+    },
+    {
+      "id": "558",
+      "name": "Conflict",
+      "name_cn": "冲突",
+      "name_jp": "コンフリクト",
+      "description": "A process that begins when one party perceives that another party has negatively affected, or is about to negatively affect, something that the first party cares about.",
+      "category": "Core Concept",
+      "labels": [
+        "CONCEPT"
+      ]
+    },
+    {
+      "id": "559",
+      "name": "Conflict as a Process",
+      "name_cn": "冲突过程",
+      "name_jp": "コンフリクトのプロセス",
+      "description": "The five stages of conflict: potential opposition, cognition and personalization, intentions, behavior, and outcomes.",
+      "category": "Core Concept",
+      "labels": [
+        "CONCEPT"
+      ]
+    },
+    {
+      "id": "560",
+      "name": "Negotiation",
+      "name_cn": "谈判",
+      "name_jp": "交渉",
+      "description": "A process in which two or more parties exchange goods or services and attempt to agree upon the exchange rate for them.",
+      "category": "Core Concept",
+      "labels": [
+        "CONCEPT"
+      ]
+    },
+    {
+      "id": "561",
+      "name": "Negotiation Process",
+      "name_cn": "谈判过程",
+      "name_jp": "交渉プロセス",
+      "description": "The steps involved in negotiation: preparation, ground rules, clarification, bargaining, and closure.",
+      "category": "Core Concept",
+      "labels": [
+        "CONCEPT"
+      ]
+    },
+    {
+      "id": "562",
+      "name": "Goal Conflict",
+      "name_cn": "目标冲突",
+      "name_jp": "目標の葛藤",
+      "description": "",
+      "category": "Subtopic",
+      "labels": [
+        "SUBTOPIC"
+      ]
+    },
+    {
+      "id": "563",
+      "name": "Cognitive Conflict",
+      "name_cn": "认知冲突",
+      "name_jp": "認知的コンフリクト",
+      "description": "",
+      "category": "Subtopic",
+      "labels": [
+        "SUBTOPIC"
+      ]
+    },
+    {
+      "id": "564",
+      "name": "Affective Conflict",
+      "name_cn": "情感冲突",
+      "name_jp": "感情的コンフリクト",
+      "description": "",
+      "category": "Subtopic",
+      "labels": [
+        "SUBTOPIC"
+      ]
+    },
+    {
+      "id": "565",
+      "name": "Procedural Conflict",
+      "name_cn": "程序冲突",
+      "name_jp": "手続き上のコンフリクト",
+      "description": "",
+      "category": "Subtopic",
+      "labels": [
+        "SUBTOPIC"
+      ]
+    },
+    {
+      "id": "566",
+      "name": "Distributive Bargaining",
+      "name_cn": "分配式谈判",
+      "name_jp": "分配的交渉",
+      "description": "",
+      "category": "Subtopic",
+      "labels": [
+        "SUBTOPIC"
+      ]
+    },
+    {
+      "id": "567",
+      "name": "Integrative Bargaining",
+      "name_cn": "整合式谈判",
+      "name_jp": "統合的交渉",
+      "description": "",
+      "category": "Subtopic",
+      "labels": [
+        "SUBTOPIC"
+      ]
+    },
+    {
+      "id": "568",
+      "name": "BATNA",
+      "name_cn": "协议外最佳替代方案",
+      "name_jp": "バトナ",
+      "description": "Best Alternative to a Negotiated Agreement; the lowest acceptable value to an individual for a negotiated agreement.",
+      "category": "Subtopic",
+      "labels": [
+        "SUBTOPIC"
+      ]
+    },
+    {
+      "id": "569",
+      "name": "Conflict Resolution",
+      "name_cn": "冲突解决",
+      "name_jp": "コンフリクトの解決",
+      "description": "",
+      "category": "Subtopic",
+      "labels": [
+        "SUBTOPIC"
+      ]
+    },
+    {
+      "id": "572",
+      "name": "Communication",
+      "name_cn": "",
+      "name_jp": "",
+      "description": "",
+      "category": "",
+      "labels": [
+        "CONCEPT"
+      ]
+    },
+    {
+      "id": "575",
+      "name": "Leadership",
+      "name_cn": "",
+      "name_jp": "",
+      "description": "",
+      "category": "",
+      "labels": [
+        "CONCEPT"
+      ]
+    },
+    {
+      "id": "578",
+      "name": "Team Performance",
+      "name_cn": "",
+      "name_jp": "",
+      "description": "",
+      "category": "",
+      "labels": [
+        "CONCEPT"
+      ]
+    },
+    {
+      "id": "581",
+      "name": "Diversity",
+      "name_cn": "",
+      "name_jp": "",
+      "description": "",
+      "category": "",
+      "labels": [
+        "CONCEPT"
+      ]
+    },
+    {
+      "id": "584",
+      "name": "Behavior Change",
+      "name_cn": "",
+      "name_jp": "",
+      "description": "",
+      "category": "",
+      "labels": [
+        "CONCEPT"
+      ]
+    },
+    {
+      "id": "587",
+      "name": "Skill Acquisition",
+      "name_cn": "",
+      "name_jp": "",
+      "description": "",
+      "category": "",
+      "labels": [
+        "CONCEPT"
+      ]
+    },
+    {
+      "id": "590",
+      "name": "Chapter 15: External and Internal Organizational Environments and Corporate Culture",
+      "name_cn": "第15章：外部和内部组织环境与企业文化",
+      "name_jp": "第15章：外部・内部組織環境と企業文化",
+      "description": "組織行動学における外部環境、内部環境、組織構造、組織文化の概念を探る。",
+      "category": "Chapter",
+      "labels": [
+        "CHAPTER"
+      ]
+    },
+    {
+      "id": "591",
+      "name": "External and Internal Organizational Environments",
+      "name_cn": "外部和内部组织环境",
+      "name_jp": "外部・内部組織環境",
+      "description": "組織を取り巻く外部要因と、組織内の構造・文化などの内部要因。",
+      "category": "Environment",
+      "labels": [
+        "CONCEPT"
+      ]
+    },
+    {
+      "id": "592",
+      "name": "Environmental Uncertainty",
+      "name_cn": "环境不确定性",
+      "name_jp": "環境の不確実性",
+      "description": "組織の外部環境における変化の度合いと複雑さ。",
+      "category": "Environment",
+      "labels": [
+        "CONCEPT",
+        "FACTOR"
+      ]
+    },
+    {
+      "id": "593",
+      "name": "Organizational Complexity",
+      "name_cn": "组织复杂性",
+      "name_jp": "組織の複雑性",
+      "description": "組織内の分化、階層、地理的分散の度合い。",
+      "category": "Structure",
+      "labels": [
+        "CONCEPT"
+      ]
+    },
+    {
+      "id": "594",
+      "name": "Mechanistic vs. Organic Structures",
+      "name_cn": "机械式与有机式结构",
+      "name_jp": "機械的組織構造 対 有機的組織構造",
+      "description": "組織構造の設計に関する二つの対照的なモデル。",
+      "category": "Structure",
+      "labels": [
+        "CONCEPT"
+      ]
+    },
+    {
+      "id": "595",
+      "name": "Types of Organizational Structures",
+      "name_cn": "组织结构类型",
+      "name_jp": "組織構造の種類",
+      "description": "機能別、事業部別、マトリックス、ネットワーク型などの具体的な組織構造。",
+      "category": "Structure",
+      "labels": [
+        "CONCEPT"
+      ]
+    },
+    {
+      "id": "596",
+      "name": "Open Systems Theory",
+      "name_cn": "开放系统理论",
+      "name_jp": "オープンシステム理論",
+      "description": "組織を環境と相互作用するシステムとして捉える理論。",
+      "category": "Theory",
+      "labels": [
+        "CONCEPT",
+        "THEORY"
+      ]
+    },
+    {
+      "id": "597",
+      "name": "Internal Organizational Dimensions",
+      "name_cn": "内部组织维度",
+      "name_jp": "内部組織の側面",
+      "description": "組織の内部構造を定義する要素（専門化、標準化、集権化など）。",
+      "category": "Structure",
+      "labels": [
+        "CONCEPT"
+      ]
+    },
+    {
+      "id": "598",
+      "name": "McKinsey 7-S Model",
+      "name_cn": "麦肯锡7S模型",
+      "name_jp": "マッキンゼーの7Sモデル",
+      "description": "組織の有効性を分析するための7つの相互に関連する要素（戦略、構造、システム、共有価値、スキル、スタッフ、スタイル）。",
+      "category": "Framework",
+      "labels": [
+        "CONCEPT",
+        "THEORY"
+      ]
+    },
+    {
+      "id": "599",
+      "name": "Corporate Culture",
+      "name_cn": "企业文化",
+      "name_jp": "企業文化",
+      "description": "組織のメンバーが共有する価値観、信念、規範。",
+      "category": "Culture",
+      "labels": [
+        "CONCEPT",
+        "FACTOR"
+      ]
+    },
+    {
+      "id": "600",
+      "name": "Environment-Industry-Organization \"Fit\" Framework",
+      "name_cn": "环境-产业-组织“契合”框架",
+      "name_jp": "環境-産業-組織「適合」フレームワーク",
+      "description": "組織の構造が環境と産業の特性に適合している必要があるという考え方。",
+      "category": "Framework",
+      "labels": [
+        "THEORY"
+      ]
+    },
+    {
+      "id": "601",
+      "name": "Mechanistic vs. Organic Organizational Structures Model",
+      "name_cn": "机械式与有机式组织结构模型",
+      "name_jp": "機械的組織構造 対 有機的組織構造モデル",
+      "description": "BurnsとStalkerによる、環境に応じて適切な組織構造を提唱したモデル。",
+      "category": "Model",
+      "labels": [
+        "THEORY"
+      ]
+    },
+    {
+      "id": "602",
+      "name": "Lewin and Stephens Unifying Framework",
+      "name_cn": "勒温和斯蒂芬斯统一框架",
+      "name_jp": "レヴィンとスティーブンスの統合フレームワーク",
+      "description": "組織行動学の様々な側面を統合的に理解するためのフレームワーク。",
+      "category": "Framework",
+      "labels": [
+        "THEORY"
+      ]
+    },
+    {
+      "id": "603",
+      "name": "Environmental Complexity",
+      "name_cn": "环境复杂性",
+      "name_jp": "環境の複雑性",
+      "description": "組織が対処しなければならない外部要素の数と多様性。",
+      "category": "Environment",
+      "labels": [
+        "FACTOR"
+      ]
+    },
+    {
+      "id": "604",
+      "name": "Environmental Change",
+      "name_cn": "环境变化",
+      "name_jp": "環境の変化",
+      "description": "外部環境の要素が時間とともに変化する頻度と予測可能性。",
+      "category": "Environment",
+      "labels": [
+        "FACTOR"
+      ]
+    },
+    {
+      "id": "605",
+      "name": "Mechanistic Organizational Structures",
+      "name_cn": "机械式组织结构",
+      "name_jp": "機械的組織構造",
+      "description": "厳格な階層、集権化、高度な標準化を特徴とする構造。",
+      "category": "Structure",
+      "labels": [
+        "FACTOR"
+      ]
+    },
+    {
+      "id": "606",
+      "name": "Organic Organizational Structures",
+      "name_cn": "有机式组织结构",
+      "name_jp": "有機的組織構造",
+      "description": "柔軟な構造、分権化、低い標準化を特徴とする構造。",
+      "category": "Structure",
+      "labels": [
+        "FACTOR"
+      ]
+    },
+    {
+      "id": "607",
+      "name": "Functional Structure",
+      "name_cn": "职能结构",
+      "name_jp": "機能別組織構造",
+      "description": "専門分野（マーケティング、製造など）に基づいて部門を編成する構造。",
+      "category": "Structure",
+      "labels": [
+        "FACTOR"
+      ]
+    },
+    {
+      "id": "608",
+      "name": "Divisional Structure",
+      "name_cn": "事业部结构",
+      "name_jp": "事業部別組織構造",
+      "description": "製品、サービス、顧客、または地理に基づいて部門を編成する構造。",
+      "category": "Structure",
+      "labels": [
+        "FACTOR"
+      ]
+    },
+    {
+      "id": "609",
+      "name": "Matrix Structure",
+      "name_cn": "矩阵结构",
+      "name_jp": "マトリックス組織構造",
+      "description": "機能別と事業部別の構造を組み合わせ、二重の報告関係を持つ構造。",
+      "category": "Structure",
+      "labels": [
+        "FACTOR"
+      ]
+    },
+    {
+      "id": "610",
+      "name": "Networked Team Structures",
+      "name_cn": "网络化团队结构",
+      "name_jp": "ネットワーク型チーム構造",
+      "description": "柔軟で自律的なチーム間の連携に依存する構造。",
+      "category": "Structure",
+      "labels": [
+        "FACTOR"
+      ]
+    },
+    {
+      "id": "611",
+      "name": "Virtual Structures",
+      "name_cn": "虚拟结构",
+      "name_jp": "バーチャル組織構造",
+      "description": "主要な機能の多くを外部の企業に委託し、中央のハブが調整する構造。",
+      "category": "Structure",
+      "labels": [
+        "FACTOR"
+      ]
+    },
+    {
+      "id": "612",
+      "name": "Open Systems",
+      "name_cn": "开放系统",
+      "name_jp": "オープンシステム",
+      "description": "環境からインプットを受け取り、スループットを経て、アウトプットを環境に返すシステム。",
+      "category": "System",
+      "labels": [
+        "FACTOR"
+      ]
+    },
+    {
+      "id": "613",
+      "name": "Through-put",
+      "name_cn": "吞吐量",
+      "name_jp": "スループット",
+      "description": "オープンシステムにおいて、インプットをアウトプットに変換するプロセス。",
+      "category": "System",
+      "labels": [
+        "FACTOR"
+      ]
+    },
+    {
+      "id": "628",
+      "name": "Organizational Structure and Change",
+      "name_cn": "组织结构与变革",
+      "name_jp": "組織構造と変革",
+      "description": "Discusses the design of organizational structures and the process of managing organizational change.",
+      "category": "Chapter",
+      "labels": [
+        "Chapter"
+      ]
+    },
+    {
+      "id": "629",
+      "name": "Organizational Structure",
+      "name_cn": "组织结构",
+      "name_jp": "組織構造",
+      "description": "The formal arrangement of jobs within an organization.",
+      "category": "Core Concept",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "630",
+      "name": "Organizational Change",
+      "name_cn": "组织变革",
+      "name_jp": "組織変革",
+      "description": "Any alteration of an organization's people, structure, or technology.",
+      "category": "Core Concept",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "631",
+      "name": "Formal Organization",
+      "name_cn": "正式组织",
+      "name_jp": "公式組織",
+      "description": "The official, structured relationships and roles defined by management.",
+      "category": "Structure Type",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "632",
+      "name": "Informal Organization",
+      "name_cn": "非正式组织",
+      "name_jp": "非公式組織",
+      "description": "The unofficial, unwritten, and often unspoken relationships and norms that exist within an organization.",
+      "category": "Structure Type",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "633",
+      "name": "Mechanistic Organizational Structures",
+      "name_cn": "机械式组织结构",
+      "name_jp": "機械的組織構造",
+      "description": "A structure characterized by high specialization, rigid departmentalization, clear chain of command, narrow spans of control, and centralization.",
+      "category": "Structure Type",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "634",
+      "name": "Organic Organizational Structures",
+      "name_cn": "有机式组织结构",
+      "name_jp": "有機的組織構造",
+      "description": "A structure that is highly adaptive and flexible, with little formalization, decentralized decision-making, and wide spans of control.",
+      "category": "Structure Type",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "635",
+      "name": "Functional Structure",
+      "name_cn": "职能结构",
+      "name_jp": "機能別組織",
+      "description": "An organizational design that groups similar or related occupational specialties together.",
+      "category": "Structure Type",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "636",
+      "name": "Divisional Structure",
+      "name_cn": "事业部结构",
+      "name_jp": "事業部制組織",
+      "description": "An organizational structure made up of separate business units or divisions.",
+      "category": "Structure Type",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "637",
+      "name": "Geographic Structure",
+      "name_cn": "地理结构",
+      "name_jp": "地域別組織",
+      "description": "A divisional structure organized around specific geographic regions.",
+      "category": "Structure Type",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "638",
+      "name": "Matrix Structure",
+      "name_cn": "矩阵结构",
+      "name_jp": "マトリックス組織",
+      "description": "A structure that assigns specialists from different functional departments to work on one or more projects.",
+      "category": "Structure Type",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "639",
+      "name": "Networked-Team Structure",
+      "name_cn": "网络化团队结构",
+      "name_jp": "ネットワーク型チーム組織",
+      "description": "A structure where employees continuously work on projects in teams that are formed, dissolved, and reformed as needed.",
+      "category": "Structure Type",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "640",
+      "name": "Virtual Structure",
+      "name_cn": "虚拟结构",
+      "name_jp": "バーチャル組織",
+      "description": "An organization that consists of a small core of full-time employees and temporarily hires outside specialists to work on opportunities that arise.",
+      "category": "Structure Type",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "641",
+      "name": "Planned Change",
+      "name_cn": "计划变革",
+      "name_jp": "計画的変革",
+      "description": "Change activities that are intentional and goal-oriented.",
+      "category": "Change Type",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "642",
+      "name": "Unplanned Change",
+      "name_cn": "非计划变革",
+      "name_jp": "非計画的変革",
+      "description": "Change that is unexpected and often reactive, resulting from external forces or crises.",
+      "category": "Change Type",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "643",
+      "name": "Incremental Change",
+      "name_cn": "渐进式变革",
+      "name_jp": "漸進的変革",
+      "description": "Small, continuous changes that fine-tune the organization.",
+      "category": "Change Type",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "644",
+      "name": "Transformational Change",
+      "name_cn": "转型变革",
+      "name_jp": "変革的変革",
+      "description": "Radical, organization-wide changes that result in a major overhaul of the organization's mission, structure, and culture.",
+      "category": "Change Type",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "645",
+      "name": "Change Agent",
+      "name_cn": "变革推动者",
+      "name_jp": "変革エージェント",
+      "description": "A person who acts as a catalyst and assumes the responsibility for managing change activities.",
+      "category": "Role",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "646",
+      "name": "Resistance to Change",
+      "name_cn": "变革阻力",
+      "name_jp": "変革への抵抗",
+      "description": "Actions or behaviors that attempt to slow down or stop the change process.",
+      "category": "Factor",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "647",
+      "name": "Lewin's Three-Step Model",
+      "name_cn": "勒温三步模型",
+      "name_jp": "レヴィンの三段階モデル",
+      "description": "A model for change consisting of unfreezing, movement (change), and refreezing.",
+      "category": "Change Model",
+      "labels": [
+        "Theory"
+      ]
+    },
+    {
+      "id": "648",
+      "name": "Kotter's Eight-Step Model",
+      "name_cn": "科特八步模型",
+      "name_jp": "コッターの8段階モデル",
+      "description": "A detailed sequence of steps for leading organizational change, starting with establishing a sense of urgency.",
+      "category": "Change Model",
+      "labels": [
+        "Theory"
+      ]
+    },
+    {
+      "id": "649",
+      "name": "Appreciative Inquiry (AI)",
+      "name_cn": "欣赏式探询",
+      "name_jp": "アプリシエイティブ・インクワイアリー",
+      "description": "An approach that seeks to identify the unique strengths and best practices of an organization and build upon them.",
+      "category": "Change Model",
+      "labels": [
+        "Theory"
+      ]
+    },
+    {
+      "id": "650",
+      "name": "Human Resource Management",
+      "name_cn": "人力资源管理",
+      "name_jp": "",
+      "description": "The strategic and comprehensive approach to managing people and the workplace culture.",
+      "category": "Core Concept",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "651",
+      "name": "Employee Life Cycle",
+      "name_cn": "员工生命周期",
+      "name_jp": "",
+      "description": "The various stages an employee goes through from recruitment to exit.",
+      "category": "",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "652",
+      "name": "Entrepreneurship",
+      "name_cn": "起业家精神",
+      "name_jp": "起業家精神",
+      "description": "新しい事業を立ち上げ、それに伴うリスクを引き受け、利益を得るプロセス。",
+      "category": "Core Concept",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "653",
+      "name": "Corporate Entrepreneurship",
+      "name_cn": "企业内起业家精神",
+      "name_jp": "企業内起業家精神",
+      "description": "既存の大企業内で新しい事業やイノベーションを開発する活動。",
+      "category": "Type",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "654",
+      "name": "Social Entrepreneurship",
+      "name_cn": "社会起业家精神",
+      "name_jp": "社会的起業家精神",
+      "description": "社会的・環境的な問題解決を主な目的とする事業活動。",
+      "category": "Type",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "655",
+      "name": "Business Model Canvas (BMC)",
+      "name_cn": "商业模式画布",
+      "name_jp": "ビジネスモデルキャンバス",
+      "description": "事業の主要な構成要素を視覚的に表現するための戦略的マネジメントツール。",
+      "category": "Framework",
+      "labels": [
+        "Framework"
+      ]
+    },
+    {
+      "id": "656",
+      "name": "Global Entrepreneurship Monitor (GEM) model",
+      "name_cn": "全球起业家监测（GEM）模型",
+      "name_jp": "グローバル起業家モニター（GEM）モデル",
+      "description": "国際的な起業活動のレベルと決定要因を測定するフレームワーク。",
+      "category": "Framework",
+      "labels": [
+        "Framework"
+      ]
+    },
+    {
+      "id": "657",
+      "name": "Value Proposition",
+      "name_cn": "价值提案",
+      "name_jp": "価値提案",
+      "description": "顧客が抱える問題を解決し、ニーズを満たすために企業が提供する製品やサービスの価値。",
+      "category": "BMC Element",
+      "labels": [
+        "Element"
+      ]
+    },
+    {
+      "id": "658",
+      "name": "Customer Segments",
+      "name_cn": "客户细分",
+      "name_jp": "顧客セグメント",
+      "description": "企業がリーチし、サービスを提供したいと考える異なる人々のグループ。",
+      "category": "BMC Element",
+      "labels": [
+        "Element"
+      ]
+    },
+    {
+      "id": "659",
+      "name": "Channels",
+      "name_cn": "渠道",
+      "name_jp": "チャネル",
+      "description": "企業が顧客セグメントとコミュニケーションを取り、価値提案を届ける方法。",
+      "category": "BMC Element",
+      "labels": [
+        "Element"
+      ]
+    },
+    {
+      "id": "660",
+      "name": "Revenue Streams",
+      "name_cn": "收入来源",
+      "name_jp": "収益の流れ",
+      "description": "企業が顧客セグメントに価値提案を成功裏に提供することで得られる収入。",
+      "category": "BMC Element",
+      "labels": [
+        "Element"
+      ]
+    },
+    {
+      "id": "661",
+      "name": "Key Resources",
+      "name_cn": "关键资源",
+      "name_jp": "主要なリソース",
+      "description": "価値提案の提供、チャネルの確立、顧客セグメントとの関係維持、収益の創出に必要な最も重要な資産。",
+      "category": "BMC Element",
+      "labels": [
+        "Element"
+      ]
+    },
+    {
+      "id": "662",
+      "name": "Key Activities",
+      "name_cn": "关键活动",
+      "name_jp": "主要な活動",
+      "description": "価値提案の提供、チャネルの確立、顧客セグメントとの関係維持、収益の創出に必要な最も重要な行動。",
+      "category": "BMC Element",
+      "labels": [
+        "Element"
+      ]
+    },
+    {
+      "id": "663",
+      "name": "Types of Entrepreneurs",
+      "name_cn": "起业家的种类",
+      "name_jp": "起業家の種類",
+      "description": "異なる動機や事業形態を持つ起業家の分類。",
+      "category": "Concept",
+      "labels": [
+        "Concept"
+      ]
+    },
+    {
+      "id": "664",
+      "name": "Characteristics of Successful Entrepreneurs",
+      "name_cn": "成功起业家的特性",
+      "name_jp": "成功する起業家の特性",
+      "description": "成功した起業家が共通して持つとされるパーソナリティ特性やスキル。",
+      "category": "Concept",
+      "labels": [
+        "Concept"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "0",
+      "target": "1",
+      "type": "ENCOMPASSES"
+    },
+    {
+      "source": "0",
+      "target": "2",
+      "type": "ENCOMPASSES"
+    },
+    {
+      "source": "0",
+      "target": "3",
+      "type": "ENCOMPASSES"
+    },
+    {
+      "source": "0",
+      "target": "4",
+      "type": "ENCOMPASSES"
+    },
+    {
+      "source": "2",
+      "target": "10",
+      "type": "COMPRISES"
+    },
+    {
+      "source": "2",
+      "target": "11",
+      "type": "COMPRISES"
+    },
+    {
+      "source": "2",
+      "target": "12",
+      "type": "COMPRISES"
+    },
+    {
+      "source": "2",
+      "target": "13",
+      "type": "COMPRISES"
+    },
+    {
+      "source": "2",
+      "target": "14",
+      "type": "COMPRISES"
+    },
+    {
+      "source": "2",
+      "target": "15",
+      "type": "COMPRISES"
+    },
+    {
+      "source": "3",
+      "target": "5",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "3",
+      "target": "6",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "3",
+      "target": "7",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "3",
+      "target": "8",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "3",
+      "target": "9",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "4",
+      "target": "32",
+      "type": "USES_MODEL"
+    },
+    {
+      "source": "4",
+      "target": "33",
+      "type": "USES_MODEL"
+    },
+    {
+      "source": "4",
+      "target": "34",
+      "type": "USES_MODEL"
+    },
+    {
+      "source": "4",
+      "target": "16",
+      "type": "INCLUDES_INDIVIDUAL"
+    },
+    {
+      "source": "4",
+      "target": "17",
+      "type": "INCLUDES_INDIVIDUAL"
+    },
+    {
+      "source": "4",
+      "target": "18",
+      "type": "INCLUDES_INDIVIDUAL"
+    },
+    {
+      "source": "4",
+      "target": "19",
+      "type": "INCLUDES_INDIVIDUAL"
+    },
+    {
+      "source": "4",
+      "target": "20",
+      "type": "INCLUDES_INDIVIDUAL"
+    },
+    {
+      "source": "4",
+      "target": "21",
+      "type": "INCLUDES_INDIVIDUAL"
+    },
+    {
+      "source": "4",
+      "target": "22",
+      "type": "INCLUDES_GROUP"
+    },
+    {
+      "source": "4",
+      "target": "23",
+      "type": "INCLUDES_GROUP"
+    },
+    {
+      "source": "4",
+      "target": "24",
+      "type": "INCLUDES_GROUP"
+    },
+    {
+      "source": "4",
+      "target": "25",
+      "type": "INCLUDES_GROUP"
+    },
+    {
+      "source": "4",
+      "target": "26",
+      "type": "INCLUDES_GROUP"
+    },
+    {
+      "source": "4",
+      "target": "27",
+      "type": "INCLUDES_ORGANIZATION"
+    },
+    {
+      "source": "4",
+      "target": "28",
+      "type": "INCLUDES_ORGANIZATION"
+    },
+    {
+      "source": "4",
+      "target": "29",
+      "type": "INCLUDES_ORGANIZATION"
+    },
+    {
+      "source": "4",
+      "target": "30",
+      "type": "INCLUDES_ORGANIZATION"
+    },
+    {
+      "source": "4",
+      "target": "31",
+      "type": "INCLUDES_ORGANIZATION"
+    },
+    {
+      "source": "5",
+      "target": "8",
+      "type": "INFLUENCES"
+    },
+    {
+      "source": "5",
+      "target": "23",
+      "type": "AFFECTS"
+    },
+    {
+      "source": "6",
+      "target": "7",
+      "type": "CREATES"
+    },
+    {
+      "source": "7",
+      "target": "28",
+      "type": "IMPACTS"
+    },
+    {
+      "source": "12",
+      "target": "22",
+      "type": "SHAPES"
+    },
+    {
+      "source": "13",
+      "target": "37",
+      "type": "MONITORS"
+    },
+    {
+      "source": "14",
+      "target": "29",
+      "type": "DRIVES"
+    },
+    {
+      "source": "15",
+      "target": "35",
+      "type": "ENABLES"
+    },
+    {
+      "source": "16",
+      "target": "22",
+      "type": "CONTRIBUTES_TO"
+    },
+    {
+      "source": "20",
+      "target": "36",
+      "type": "ENABLES"
+    },
+    {
+      "source": "22",
+      "target": "28",
+      "type": "SHAPES"
+    },
+    {
+      "source": "27",
+      "target": "23",
+      "type": "CONSTRAINS"
+    },
+    {
+      "source": "32",
+      "target": "33",
+      "type": "FLOWS_TO"
+    },
+    {
+      "source": "32",
+      "target": "16",
+      "type": "RECEIVES"
+    },
+    {
+      "source": "32",
+      "target": "20",
+      "type": "RECEIVES"
+    },
+    {
+      "source": "32",
+      "target": "21",
+      "type": "RECEIVES"
+    },
+    {
+      "source": "32",
+      "target": "22",
+      "type": "RECEIVES"
+    },
+    {
+      "source": "32",
+      "target": "27",
+      "type": "RECEIVES"
+    },
+    {
+      "source": "32",
+      "target": "28",
+      "type": "RECEIVES"
+    },
+    {
+      "source": "33",
+      "target": "34",
+      "type": "FLOWS_TO"
+    },
+    {
+      "source": "33",
+      "target": "14",
+      "type": "ENGAGES"
+    },
+    {
+      "source": "33",
+      "target": "17",
+      "type": "ENGAGES"
+    },
+    {
+      "source": "33",
+      "target": "18",
+      "type": "ENGAGES"
+    },
+    {
+      "source": "33",
+      "target": "19",
+      "type": "ENGAGES"
+    },
+    {
+      "source": "33",
+      "target": "23",
+      "type": "ENGAGES"
+    },
+    {
+      "source": "33",
+      "target": "24",
+      "type": "ENGAGES"
+    },
+    {
+      "source": "34",
+      "target": "35",
+      "type": "PRODUCES"
+    },
+    {
+      "source": "34",
+      "target": "36",
+      "type": "PRODUCES"
+    },
+    {
+      "source": "34",
+      "target": "37",
+      "type": "PRODUCES"
+    },
+    {
+      "source": "34",
+      "target": "38",
+      "type": "PRODUCES"
+    },
+    {
+      "source": "35",
+      "target": "17",
+      "type": "INFLUENCES"
+    },
+    {
+      "source": "36",
+      "target": "26",
+      "type": "AFFECTS"
+    },
+    {
+      "source": "37",
+      "target": "29",
+      "type": "INFORMS"
+    },
+    {
+      "source": "38",
+      "target": "19",
+      "type": "IMPACTS"
+    },
+    {
+      "source": "39",
+      "target": "60",
+      "type": "ENCOMPASSES"
+    },
+    {
+      "source": "39",
+      "target": "61",
+      "type": "ENCOMPASSES"
+    },
+    {
+      "source": "39",
+      "target": "62",
+      "type": "ENCOMPASSES"
+    },
+    {
+      "source": "41",
+      "target": "47",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "41",
+      "target": "48",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "41",
+      "target": "49",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "42",
+      "target": "50",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "42",
+      "target": "51",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "45",
+      "target": "52",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "45",
+      "target": "53",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "46",
+      "target": "54",
+      "type": "USES_FRAMEWORK"
+    },
+    {
+      "source": "54",
+      "target": "55",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "54",
+      "target": "56",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "54",
+      "target": "57",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "54",
+      "target": "58",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "54",
+      "target": "59",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "61",
+      "target": "278",
+      "type": "ENABLES"
+    },
+    {
+      "source": "62",
+      "target": "278",
+      "type": "ENRICHES"
+    },
+    {
+      "source": "104",
+      "target": "113",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "104",
+      "target": "123",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "104",
+      "target": "124",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "104",
+      "target": "125",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "104",
+      "target": "129",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "104",
+      "target": "130",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "104",
+      "target": "131",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "105",
+      "target": "110",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "105",
+      "target": "111",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "105",
+      "target": "112",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "107",
+      "target": "121",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "107",
+      "target": "122",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "108",
+      "target": "117",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "109",
+      "target": "118",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "109",
+      "target": "119",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "109",
+      "target": "120",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "113",
+      "target": "114",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "113",
+      "target": "115",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "113",
+      "target": "116",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "113",
+      "target": "108",
+      "type": "DISTORTS"
+    },
+    {
+      "source": "114",
+      "target": "108",
+      "type": "INFLUENCES"
+    },
+    {
+      "source": "115",
+      "target": "117",
+      "type": "AFFECTS"
+    },
+    {
+      "source": "116",
+      "target": "108",
+      "type": "CREATES_BIAS_IN"
+    },
+    {
+      "source": "126",
+      "target": "127",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "126",
+      "target": "128",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "132",
+      "target": "108",
+      "type": "INFLUENCES"
+    },
+    {
+      "source": "133",
+      "target": "109",
+      "type": "STRENGTHENS"
+    },
+    {
+      "source": "134",
+      "target": "117",
+      "type": "REDUCES"
+    },
+    {
+      "source": "135",
+      "target": "108",
+      "type": "DECREASES"
+    },
+    {
+      "source": "172",
+      "target": "190",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "172",
+      "target": "191",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "172",
+      "target": "192",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "172",
+      "target": "193",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "172",
+      "target": "194",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "173",
+      "target": "176",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "173",
+      "target": "177",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "173",
+      "target": "178",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "173",
+      "target": "179",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "175",
+      "target": "195",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "175",
+      "target": "196",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "175",
+      "target": "197",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "175",
+      "target": "198",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "177",
+      "target": "180",
+      "type": "USES"
+    },
+    {
+      "source": "177",
+      "target": "181",
+      "type": "USES"
+    },
+    {
+      "source": "177",
+      "target": "182",
+      "type": "USES"
+    },
+    {
+      "source": "177",
+      "target": "183",
+      "type": "USES"
+    },
+    {
+      "source": "177",
+      "target": "184",
+      "type": "BASED_ON"
+    },
+    {
+      "source": "178",
+      "target": "185",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "178",
+      "target": "186",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "178",
+      "target": "187",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "178",
+      "target": "188",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "178",
+      "target": "189",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "179",
+      "target": "186",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "179",
+      "target": "187",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "186",
+      "target": "187",
+      "type": "ENABLES"
+    },
+    {
+      "source": "187",
+      "target": "188",
+      "type": "ENABLES"
+    },
+    {
+      "source": "192",
+      "target": "190",
+      "type": "MOTIVATES"
+    },
+    {
+      "source": "198",
+      "target": "180",
+      "type": "USES"
+    },
+    {
+      "source": "198",
+      "target": "192",
+      "type": "USES"
+    },
+    {
+      "source": "199",
+      "target": "190",
+      "type": "INCREASES"
+    },
+    {
+      "source": "200",
+      "target": "180",
+      "type": "REINFORCES"
+    },
+    {
+      "source": "201",
+      "target": "192",
+      "type": "GENERATES"
+    },
+    {
+      "source": "236",
+      "target": "301",
+      "type": "INFLUENCES"
+    },
+    {
+      "source": "236",
+      "target": "277",
+      "type": "IMPROVES"
+    },
+    {
+      "source": "237",
+      "target": "61",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "237",
+      "target": "62",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "237",
+      "target": "241",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "237",
+      "target": "242",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "237",
+      "target": "243",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "237",
+      "target": "244",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "237",
+      "target": "245",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "237",
+      "target": "246",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "237",
+      "target": "247",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "237",
+      "target": "248",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "237",
+      "target": "236",
+      "type": "ELABORATES"
+    },
+    {
+      "source": "238",
+      "target": "277",
+      "type": "PRODUCES"
+    },
+    {
+      "source": "238",
+      "target": "278",
+      "type": "PRODUCES"
+    },
+    {
+      "source": "238",
+      "target": "279",
+      "type": "PRODUCES"
+    },
+    {
+      "source": "238",
+      "target": "281",
+      "type": "PRODUCES"
+    },
+    {
+      "source": "238",
+      "target": "236",
+      "type": "DESCRIBES"
+    },
+    {
+      "source": "239",
+      "target": "257",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "239",
+      "target": "258",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "239",
+      "target": "236",
+      "type": "IDENTIFIES_ISSUES_IN"
+    },
+    {
+      "source": "240",
+      "target": "272",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "240",
+      "target": "273",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "240",
+      "target": "274",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "240",
+      "target": "275",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "240",
+      "target": "276",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "240",
+      "target": "269",
+      "type": "USES"
+    },
+    {
+      "source": "240",
+      "target": "270",
+      "type": "USES"
+    },
+    {
+      "source": "240",
+      "target": "271",
+      "type": "USES"
+    },
+    {
+      "source": "240",
+      "target": "239",
+      "type": "ADDRESSES"
+    },
+    {
+      "source": "240",
+      "target": "280",
+      "type": "IMPROVES"
+    },
+    {
+      "source": "241",
+      "target": "249",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "242",
+      "target": "250",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "242",
+      "target": "251",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "242",
+      "target": "252",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "243",
+      "target": "253",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "243",
+      "target": "254",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "244",
+      "target": "256",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "245",
+      "target": "255",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "249",
+      "target": "259",
+      "type": "EXPERIENCES"
+    },
+    {
+      "source": "249",
+      "target": "257",
+      "type": "FACE_STEREOTYPE"
+    },
+    {
+      "source": "250",
+      "target": "257",
+      "type": "EXPERIENCES"
+    },
+    {
+      "source": "250",
+      "target": "257",
+      "type": "FACE_STEREOTYPE"
+    },
+    {
+      "source": "251",
+      "target": "257",
+      "type": "FACE_STEREOTYPE"
+    },
+    {
+      "source": "253",
+      "target": "260",
+      "type": "EXPERIENCES"
+    },
+    {
+      "source": "253",
+      "target": "260",
+      "type": "FACE_STEREOTYPE"
+    },
+    {
+      "source": "255",
+      "target": "258",
+      "type": "EXPERIENCES"
+    },
+    {
+      "source": "256",
+      "target": "261",
+      "type": "EXPERIENCES"
+    },
+    {
+      "source": "257",
+      "target": "260",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "257",
+      "target": "261",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "257",
+      "target": "262",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "257",
+      "target": "263",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "257",
+      "target": "265",
+      "type": "GOVERNED_BY"
+    },
+    {
+      "source": "258",
+      "target": "259",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "258",
+      "target": "280",
+      "type": "DECREASES"
+    },
+    {
+      "source": "259",
+      "target": "265",
+      "type": "GOVERNED_BY"
+    },
+    {
+      "source": "260",
+      "target": "267",
+      "type": "GOVERNED_BY"
+    },
+    {
+      "source": "261",
+      "target": "268",
+      "type": "GOVERNED_BY"
+    },
+    {
+      "source": "262",
+      "target": "257",
+      "type": "CREATES_PERCEPTION_OF"
+    },
+    {
+      "source": "263",
+      "target": "266",
+      "type": "GOVERNED_BY"
+    },
+    {
+      "source": "264",
+      "target": "265",
+      "type": "ENFORCES"
+    },
+    {
+      "source": "264",
+      "target": "266",
+      "type": "ENFORCES"
+    },
+    {
+      "source": "264",
+      "target": "267",
+      "type": "ENFORCES"
+    },
+    {
+      "source": "264",
+      "target": "268",
+      "type": "ENFORCES"
+    },
+    {
+      "source": "269",
+      "target": "257",
+      "type": "FOCUSES_ON"
+    },
+    {
+      "source": "269",
+      "target": "258",
+      "type": "FOCUSES_ON"
+    },
+    {
+      "source": "270",
+      "target": "61",
+      "type": "LEVERAGES"
+    },
+    {
+      "source": "270",
+      "target": "62",
+      "type": "LEVERAGES"
+    },
+    {
+      "source": "271",
+      "target": "278",
+      "type": "LEADS_TO"
+    },
+    {
+      "source": "271",
+      "target": "277",
+      "type": "PROMOTES"
+    },
+    {
+      "source": "271",
+      "target": "278",
+      "type": "PROMOTES"
+    },
+    {
+      "source": "272",
+      "target": "257",
+      "type": "REDUCES"
+    },
+    {
+      "source": "272",
+      "target": "236",
+      "type": "INCREASES"
+    },
+    {
+      "source": "273",
+      "target": "241",
+      "type": "REDUCES"
+    },
+    {
+      "source": "274",
+      "target": "258",
+      "type": "REDUCES"
+    },
+    {
+      "source": "275",
+      "target": "280",
+      "type": "ENHANCES"
+    },
+    {
+      "source": "275",
+      "target": "280",
+      "type": "DEVELOPS"
+    },
+    {
+      "source": "276",
+      "target": "280",
+      "type": "INCREASES"
+    },
+    {
+      "source": "276",
+      "target": "280",
+      "type": "STRENGTHENS"
+    },
+    {
+      "source": "276",
+      "target": "280",
+      "type": "ENSURES"
+    },
+    {
+      "source": "277",
+      "target": "281",
+      "type": "ENHANCES"
+    },
+    {
+      "source": "277",
+      "target": "279",
+      "type": "SUPPORTS"
+    },
+    {
+      "source": "278",
+      "target": "279",
+      "type": "DRIVES"
+    },
+    {
+      "source": "278",
+      "target": "277",
+      "type": "STRENGTHENS"
+    },
+    {
+      "source": "280",
+      "target": "278",
+      "type": "DRIVES"
+    },
+    {
+      "source": "280",
+      "target": "281",
+      "type": "INCREASES"
+    },
+    {
+      "source": "367",
+      "target": "427",
+      "type": "INCLUDES_NEED"
+    },
+    {
+      "source": "367",
+      "target": "428",
+      "type": "INCLUDES_NEED"
+    },
+    {
+      "source": "367",
+      "target": "429",
+      "type": "INCLUDES_NEED"
+    },
+    {
+      "source": "374",
+      "target": "411",
+      "type": "EXPLAINS"
+    },
+    {
+      "source": "374",
+      "target": "412",
+      "type": "EXPLAINS"
+    },
+    {
+      "source": "377",
+      "target": "422",
+      "type": "INCLUDES_METHOD"
+    },
+    {
+      "source": "377",
+      "target": "423",
+      "type": "INCLUDES_METHOD"
+    },
+    {
+      "source": "377",
+      "target": "424",
+      "type": "INCLUDES_METHOD"
+    },
+    {
+      "source": "377",
+      "target": "425",
+      "type": "INCLUDES_METHOD"
+    },
+    {
+      "source": "378",
+      "target": "416",
+      "type": "HAS_COMPONENT"
+    },
+    {
+      "source": "378",
+      "target": "417",
+      "type": "HAS_COMPONENT"
+    },
+    {
+      "source": "378",
+      "target": "418",
+      "type": "INVOLVES"
+    },
+    {
+      "source": "378",
+      "target": "419",
+      "type": "LEADS_TO_STATE"
+    },
+    {
+      "source": "378",
+      "target": "420",
+      "type": "LEADS_TO_STATE"
+    },
+    {
+      "source": "378",
+      "target": "430",
+      "type": "IS_FOUNDATION_FOR"
+    },
+    {
+      "source": "379",
+      "target": "421",
+      "type": "REQUIRES"
+    },
+    {
+      "source": "380",
+      "target": "413",
+      "type": "HAS_COMPONENT"
+    },
+    {
+      "source": "380",
+      "target": "414",
+      "type": "HAS_COMPONENT"
+    },
+    {
+      "source": "380",
+      "target": "415",
+      "type": "HAS_COMPONENT"
+    },
+    {
+      "source": "399",
+      "target": "400",
+      "type": "CONTAINS_CONCEPT"
+    },
+    {
+      "source": "399",
+      "target": "401",
+      "type": "CONTAINS_CONCEPT"
+    },
+    {
+      "source": "399",
+      "target": "402",
+      "type": "CONTAINS_CONCEPT"
+    },
+    {
+      "source": "399",
+      "target": "403",
+      "type": "CONTAINS_CONCEPT"
+    },
+    {
+      "source": "399",
+      "target": "404",
+      "type": "CONTAINS_CONCEPT"
+    },
+    {
+      "source": "399",
+      "target": "405",
+      "type": "CONTAINS_CONCEPT"
+    },
+    {
+      "source": "400",
+      "target": "401",
+      "type": "LEADS_TO"
+    },
+    {
+      "source": "402",
+      "target": "367",
+      "type": "INCLUDES_THEORY"
+    },
+    {
+      "source": "402",
+      "target": "406",
+      "type": "INCLUDES_THEORY"
+    },
+    {
+      "source": "402",
+      "target": "407",
+      "type": "INCLUDES_THEORY"
+    },
+    {
+      "source": "403",
+      "target": "378",
+      "type": "INCLUDES_THEORY"
+    },
+    {
+      "source": "403",
+      "target": "379",
+      "type": "INCLUDES_THEORY"
+    },
+    {
+      "source": "403",
+      "target": "380",
+      "type": "INCLUDES_THEORY"
+    },
+    {
+      "source": "404",
+      "target": "430",
+      "type": "HAS_TYPE"
+    },
+    {
+      "source": "404",
+      "target": "431",
+      "type": "HAS_TYPE"
+    },
+    {
+      "source": "404",
+      "target": "401",
+      "type": "AFFECTS_PERCEPTION_OF"
+    },
+    {
+      "source": "407",
+      "target": "365",
+      "type": "RELATED_FACTOR"
+    },
+    {
+      "source": "407",
+      "target": "426",
+      "type": "RELATED_FACTOR"
+    },
+    {
+      "source": "432",
+      "target": "433",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "434",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "435",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "436",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "437",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "438",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "439",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "440",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "441",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "442",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "443",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "444",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "445",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "446",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "447",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "448",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "449",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "450",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "451",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "452",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "453",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "454",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "455",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "456",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "457",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "458",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "459",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "460",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "461",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "462",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "463",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "464",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "465",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "466",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "467",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "468",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "469",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "470",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "471",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "432",
+      "target": "472",
+      "type": "CONTAINS"
+    },
+    {
+      "source": "433",
+      "target": "445",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "433",
+      "target": "447",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "433",
+      "target": "448",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "433",
+      "target": "451",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "433",
+      "target": "454",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "433",
+      "target": "468",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "433",
+      "target": "469",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "434",
+      "target": "456",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "434",
+      "target": "467",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "434",
+      "target": "471",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "434",
+      "target": "438",
+      "type": "EXEMPLIFIED_BY"
+    },
+    {
+      "source": "434",
+      "target": "440",
+      "type": "RELATED_TO"
+    },
+    {
+      "source": "435",
+      "target": "450",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "435",
+      "target": "465",
+      "type": "AFFECTED_BY"
+    },
+    {
+      "source": "437",
+      "target": "457",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "437",
+      "target": "458",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "437",
+      "target": "464",
+      "type": "INCLUDES"
+    },
+    {
+      "source": "437",
+      "target": "446",
+      "type": "MANAGEMENT_STRATEGY"
+    },
+    {
+      "source": "440",
+      "target": "461",
+      "type": "EXPLAINS"
+    },
+    {
+      "source": "440",
+      "target": "463",
+      "type": "EXPLAINS"
+    },
+    {
+      "source": "440",
+      "target": "171",
+      "type": "APPLIES_PRINCIPLES_FROM"
+    },
+    {
+      "source": "441",
+      "target": "449",
+      "type": "DISCUSSES"
+    },
+    {
+      "source": "442",
+      "target": "459",
+      "type": "DISCUSSES"
+    },
+    {
+      "source": "442",
+      "target": "460",
+      "type": "DISCUSSES"
+    },
+    {
+      "source": "442",
+      "target": "462",
+      "type": "DISCUSSES"
+    },
+    {
+      "source": "442",
+      "target": "466",
+      "type": "DISCUSSES"
+    },
+    {
+      "source": "449",
+      "target": "236",
+      "type": "CONTEXT_IS"
+    },
+    {
+      "source": "450",
+      "target": "435",
+      "type": "IS_A_FACTOR_IN"
+    },
+    {
+      "source": "455",
+      "target": "436",
+      "type": "FACILITATES"
+    },
+    {
+      "source": "459",
+      "target": "301",
+      "type": "AFFECTED_BY"
+    },
+    {
+      "source": "467",
+      "target": "301",
+      "type": "INVOLVES"
+    },
+    {
+      "source": "481",
+      "target": "482",
+      "type": "HAS_CONCEPT"
+    },
+    {
+      "source": "481",
+      "target": "483",
+      "type": "HAS_CONCEPT"
+    },
+    {
+      "source": "481",
+      "target": "484",
+      "type": "HAS_CONCEPT"
+    },
+    {
+      "source": "481",
+      "target": "485",
+      "type": "HAS_CONCEPT"
+    },
+    {
+      "source": "481",
+      "target": "486",
+      "type": "HAS_CONCEPT"
+    },
+    {
+      "source": "481",
+      "target": "487",
+      "type": "DISCUSSES_THEORY"
+    },
+    {
+      "source": "481",
+      "target": "488",
+      "type": "DISCUSSES_THEORY"
+    },
+    {
+      "source": "481",
+      "target": "489",
+      "type": "DISCUSSES_THEORY"
+    },
+    {
+      "source": "481",
+      "target": "490",
+      "type": "DISCUSSES_THEORY"
+    },
+    {
+      "source": "482",
+      "target": "492",
+      "type": "INCLUDES_TERM"
+    },
+    {
+      "source": "482",
+      "target": "493",
+      "type": "INCLUDES_TERM"
+    },
+    {
+      "source": "482",
+      "target": "494",
+      "type": "INCLUDES_TERM"
+    },
+    {
+      "source": "482",
+      "target": "301",
+      "type": "IS_PERCEIVED_THROUGH"
+    },
+    {
+      "source": "487",
+      "target": "482",
+      "type": "IS_FOUNDATION_FOR"
+    },
+    {
+      "source": "488",
+      "target": "482",
+      "type": "EXPLAINS_CONCEPT"
+    },
+    {
+      "source": "489",
+      "target": "484",
+      "type": "EXPLAINS_CONCEPT"
+    },
+    {
+      "source": "489",
+      "target": "495",
+      "type": "BASED_ON_FACTOR"
+    },
+    {
+      "source": "489",
+      "target": "496",
+      "type": "BASED_ON_FACTOR"
+    },
+    {
+      "source": "490",
+      "target": "485",
+      "type": "EXPLAINS_CONCEPT"
+    },
+    {
+      "source": "490",
+      "target": "497",
+      "type": "INCLUDES_BEHAVIOR"
+    },
+    {
+      "source": "490",
+      "target": "498",
+      "type": "INCLUDES_BEHAVIOR"
+    },
+    {
+      "source": "490",
+      "target": "499",
+      "type": "INCLUDES_BEHAVIOR"
+    },
+    {
+      "source": "490",
+      "target": "500",
+      "type": "INCLUDES_BEHAVIOR"
+    },
+    {
+      "source": "501",
+      "target": "502",
+      "type": "HAS_CORE_CONCEPT"
+    },
+    {
+      "source": "501",
+      "target": "503",
+      "type": "HAS_CORE_CONCEPT"
+    },
+    {
+      "source": "501",
+      "target": "504",
+      "type": "HAS_CORE_CONCEPT"
+    },
+    {
+      "source": "501",
+      "target": "505",
+      "type": "HAS_CORE_CONCEPT"
+    },
+    {
+      "source": "501",
+      "target": "506",
+      "type": "HAS_SKILL"
+    },
+    {
+      "source": "501",
+      "target": "507",
+      "type": "HAS_THEORY"
+    },
+    {
+      "source": "502",
+      "target": "508",
+      "type": "HAS_COMPONENT"
+    },
+    {
+      "source": "502",
+      "target": "509",
+      "type": "HAS_COMPONENT"
+    },
+    {
+      "source": "502",
+      "target": "510",
+      "type": "HAS_COMPONENT"
+    },
+    {
+      "source": "502",
+      "target": "511",
+      "type": "HAS_COMPONENT"
+    },
+    {
+      "source": "502",
+      "target": "512",
+      "type": "HAS_COMPONENT"
+    },
+    {
+      "source": "502",
+      "target": "513",
+      "type": "HAS_BARRIER"
+    },
+    {
+      "source": "502",
+      "target": "514",
+      "type": "INCLUDES_CHECK"
+    },
+    {
+      "source": "503",
+      "target": "515",
+      "type": "HAS_TYPE"
+    },
+    {
+      "source": "503",
+      "target": "516",
+      "type": "HAS_TYPE"
+    },
+    {
+      "source": "503",
+      "target": "517",
+      "type": "HAS_DIRECTION"
+    },
+    {
+      "source": "503",
+      "target": "518",
+      "type": "HAS_DIRECTION"
+    },
+    {
+      "source": "503",
+      "target": "519",
+      "type": "HAS_DIRECTION"
+    },
+    {
+      "source": "504",
+      "target": "524",
+      "type": "INCLUDES_FACTOR"
+    },
+    {
+      "source": "504",
+      "target": "525",
+      "type": "INCLUDES_FACTOR"
+    },
+    {
+      "source": "504",
+      "target": "526",
+      "type": "INCLUDES_FACTOR"
+    },
+    {
+      "source": "506",
+      "target": "522",
+      "type": "INCLUDES_SKILL"
+    },
+    {
+      "source": "506",
+      "target": "523",
+      "type": "INCLUDES_SKILL"
+    },
+    {
+      "source": "506",
+      "target": "240",
+      "type": "IS_ESSENTIAL_FOR"
+    },
+    {
+      "source": "507",
+      "target": "521",
+      "type": "DEFINES_TERM"
+    },
+    {
+      "source": "511",
+      "target": "301",
+      "type": "IS_INFLUENCED_BY"
+    },
+    {
+      "source": "514",
+      "target": "175",
+      "type": "IS_KEY_TO"
+    },
+    {
+      "source": "515",
+      "target": "109",
+      "type": "BUILDS"
+    },
+    {
+      "source": "516",
+      "target": "520",
+      "type": "IS_EXAMPLE_OF"
+    },
+    {
+      "source": "517",
+      "target": "108",
+      "type": "AFFECTS"
+    },
+    {
+      "source": "526",
+      "target": "506",
+      "type": "IS_A_PREREQUISITE_FOR"
+    },
+    {
+      "source": "652",
+      "target": "301",
+      "type": "RELIES_ON"
+    }
+  ]
+}
