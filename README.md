@@ -33,7 +33,7 @@ This project presents an **interactive knowledge graph visualization** of key co
 ## Quick Start
 
 ### Option 1: View Online (Recommended)
-Simply open the [Live Demo](https://your-github-pages-url) in your browser. No installation required!
+Simply open the [Live Demo](https://timcanby.github.io/OB-Knowledge-Graph/) in your browser. No installation required!
 
 ### Option 2: Local Installation
 
@@ -353,7 +353,7 @@ Feel free to use this in your educational materials!
 ### 快速开始
 
 #### 选项1：在线查看（推荐）
-直接在浏览器中打开[在线演示](https://your-github-pages-url)。无需安装！
+直接在浏览器中打开[在线演示](https://timcanby.github.io/OB-Knowledge-Graph/)。无需安装！
 
 #### 选项2：本地安装
 
@@ -452,7 +452,7 @@ python3 -m http.server 8000
 ### クイックスタート
 
 #### オプション1：オンラインで表示（推奨）
-ブラウザで[ライブデモ](https://your-github-pages-url)を開くだけです。インストール不要！
+ブラウザで[ライブデモ](https://timcanby.github.io/OB-Knowledge-Graph/)を開くだけです。インストール不要！
 
 #### オプション2：ローカルインストール
 
